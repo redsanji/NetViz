@@ -1,0 +1,638 @@
+ASN-source,ASN,Name,Type,Bandwidth,Gb/s,Connectivity Type
+AS38566,AS2914,NTT (SG),ISP-Inter,0.35,Gbps,Transit/IPv6 Dual Stack
+AS4651,AS45758,Triple T Internet/ Triple T Broadband,ISP-Local,0.5,Gbps,IPv4
+AS4651,AS38450,GIN,ISP-Govt,1,Gbps,IPv4
+AS4651,AS18013,B Network Solution (BNS),ISP-Local,0.01,Gbps,IPv4
+AS4651,AS9931,CAT-ISP,ISP-Local,200,Gbps,IPv4
+AS4651,AS131090,CAT ON Net,ISP-Local,210,Gbps,IPv4
+AS4651,AS4618,INET,ISP-Local,1.8,Gbps,IPv4
+AS4651,AS24187,KIRZ,ISP-Local,0.72,Gbps,IPv4
+AS4651,AS56067,Metrabyte,ISP-Local,0.101,Gbps,IPv4
+AS4651,AS38888,MILCOM,ISP-Local,0.6,Gbps,IPv4
+AS4651,AS45328,NIPA.CLOUD,ISP-Local,0.1,Gbps,IPv6 Dual Stack
+AS4651,AS38566,NTT (TH),ISP-Local,0.38,Gbps,IPv6 Dual Stack
+AS4651,AS4765,Pacific Internet,ISP-Local,0.5,Gbps,Peering
+AS4651,AS23884,PROEN Internet,ISP-Local,1.05,Gbps,IPv6 Dual Stack
+AS4651,AS45413,ServeNET,ISP-Local,0.03,Gbps,IPv4
+AS4651,AS5639,SIAMDATA,ISP-Local,0.2,Gbps,IPv4
+AS4651,AS23969,TOT ISP,ISP-Local,40,Gbps,IPv4
+AS4651,AS131293 ,TOT LLI,ISP-Local,10,Gbps,IPv4
+AS4651,AS7470,True Internet Corporation,ISP-Local,140,Gbps,IPv4
+AS4651,AS38794,UIH/ BEENET,ISP-Local,0.7,Gbps,IPv6 Dual Stack
+AS4651,AS38328,ICT MOF,ISP-Govt,0.23,Gbps,IPv4
+AS4651,AS4621,UniNet,ISP-Govt,100,Gbps,IPv4
+AS4651,AS1200,AMS-IX (AN),ISP-Inter,9,Gbps,Peering
+AS4651,AS19996,Any2Coresite (US),ISP-Inter,10,Gbps,Peering
+AS4651,AS59360,BBIX (HK),ISP-Inter,10,Gbps,Peering
+AS4651,AS59360,BBIX (SG),ISP-Inter,1,Gbps,Peering
+AS4651,AS9505,CHT-I (TW),ISP-Inter,0.155,Gbps,Peering
+AS4651,AS3462,CHT-I HiNet (TW),ISP-Inter,0.31,Gbps,Peering
+AS4651,AS6695,DE-CIX (DE),ISP-Inter,10,Gbps,Peering
+AS4651,AS15133,EdgeCast (SG),ISP-Inter,20,Gbps,Peering
+AS4651,AS65517,Equinix (FR),ISP-Inter,10,Gbps,Peering
+AS4651,AS24115,Equinix (SG),ISP-Inter,100,Gbps,Peering
+AS4651,AS65517,Equinix San Jose (US),ISP-Inter,10,Gbps,Peering
+AS4651,AS8966,Etisalat (UAE),ISP-Inter,0.31,Gbps,Peering
+AS4651,AS32934,Facebook (SG)   ,ISP-Inter,40,Gbps,Peering
+AS4651,AS136975,GlobalNet (MM),ISP-Inter,20,Gbps,Transit
+AS4651,AS15169,Google (HK),ISP-Inter,40,Gbps,Peering
+AS4651,AS15169,Google (SG),ISP-Inter,80,Gbps,Peering
+AS4651,AS4635,HKIX (HK),ISP-Inter,20,Gbps,Peering
+AS4651,AS6939,Hurricane  (HK),ISP-Inter,10,Gbps,Transit
+AS4651,AS6939,Hurricane  (US),ISP-Inter,10,Gbps,Transit
+AS4651,AS45686,JPNAP (JP),ISP-Inter,10,Gbps,Peering
+AS4651,AS2516,KDDI (HK),ISP-Inter,9.6,Gbps,Transit
+AS4651,AS174,Cogent (SG),ISP-Inter,10,Gbps,Peering
+AS4651,AS3356,Level3  (US),ISP-Inter,10,Gbps,Transit
+AS4651,AS3786,LG DACOM (KR),ISP-Inter,0.31,Gbps,Peering
+AS4651,AS5459,LINX (UK),ISP-Inter,10,Gbps,Peering
+AS4651,AS8075,Microsoft (HK),ISP-Inter,10,Gbps,Peering
+AS4651,AS8075,Microsoft (US),ISP-Inter,10,Gbps,Peering
+AS4651,AS45558,MPT (MM),ISP-Inter,5,Gbps,Transit
+AS4651,AS2906,Netflix (SG),ISP-Inter,10,Gbps,Peering
+AS4651,AS34307,NLIX (NL),ISP-Inter,10,Gbps,Peering
+AS4651,AS2914,NTT (HK),ISP-Inter,12,Gbps,Transit
+AS4651,AS2914,NTT (SG),ISP-Inter,10,Gbps,Transit
+AS4651,AS3491,PCCW (HK),ISP-Inter,16,Gbps,Transit
+AS4651,AS9299,PLDT (PH) ,ISP-Inter,1,Gbps,Peering
+AS4651,AS7473,SingTel (SG),ISP-Inter,10,Gbps,Transit
+AS4651,AS132513,Sky Telecom (LA),ISP-Inter,0.6,Gbps,Peering
+AS4651,AS17676,SOFTBANK (HK),ISP-Inter,1,Gbps,Transit
+AS4651,AS4657,StarHub (SG) ,ISP-Inter,1,Gbps,Peering
+AS4651,AS4755,TATA  (IN),ISP-Inter,0.045,Gbps,Peering
+AS4651,AS6453,TATA (SG),ISP-Inter,8,Gbps,Transit
+AS4651,AS6453,TATA (US),ISP-Inter,4,Gbps,Transit
+AS4651,AS1299,TeliaSonera (HK),ISP-Inter,5.5,Gbps,Transit
+AS4651,AS1299,TeliaSonera (SG),ISP-Inter,5.5,Gbps,Transit
+AS4651,AS4637,Telstra (HK) ,ISP-Inter,1.244,Gbps,Peering
+AS4651,AS4637,Telstra (SG),ISP-Inter,0.31,Gbps,Peering
+AS4651,AS4788,TM (MY) ,ISP-Inter,10.932,Gbps,Peering
+AS4651,AS46489,Twitch  (SG),ISP-Inter,10,Gbps,Peering
+AS4651,AS45899,VNPT Corp (VN),ISP-Inter,1,Gbps,Peering
+AS4651,AS1273,Vodafone  (FR) ,ISP-Inter,8,Gbps,Transit
+AS45796,AS45581,INFONET,ISP-Local,0.01,Gbps,IPv4
+AS45796,AS10089,DTAC (IIG),IIG,2,Gbps,Transit
+AS45796,AS38794,UIH (Beenet),ISP-Local,200,Gbps,IPv6 Dual Stack
+AS45796,AS38328,ICT MOF,ISP-Govt,0.23,Gbps,IPv6 Dual Stack
+AS45796,AS9226,1-Net (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS20940,Akamai (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS45102,Alibaba (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS38895,Amazon (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS714,Apple (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS59360,BBIX (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS55511,Beeline (LA),ISP-Inter,2.5,Gbps,IPv4
+AS45796,AS36408,CDNetworks (SG),ISP-Inter,10,Gbps,Peering
+AS45796,AS13335,CloudFlare (SG),ISP-Inter,20,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS41690,Dailymotion (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS133165,Digital Ocean (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS19679,Dropbox (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS15133,EdgeCast (SG),ISP-Inter,10,Gbps,Peering
+AS45796,AS24115,Equinix (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS10226,ETL (LA),ISP-Inter,1,Gbps,IPv4
+AS45796,AS32934,Facebook (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS4775,Globe Telecom (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS15169,Google (SG),ISP-Inter,20,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS6939,Hurricane (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS2516,KDDI (SG),ISP-Inter,1,Gbps,Transit/IPv6 Dual Stack
+AS45796,AS9873,LAO Telecom (LA),ISP-Inter,2.5,Gbps,IPv4
+AS45796,AS22822,LimeLight (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS14413,Linkedin (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS6939,Hurrican (SG),ISP-Inter,10,Gbps,Transit/IPv6 Dual Stack
+AS45796,AS8075,Microsoft (SG),ISP-Inter,20,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS2906,Netflix (SG),ISP-Inter,20,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS8674,Netnod (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS23576,NHN (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS2914,NTT (SG),ISP-Inter,10,Gbps,IPv6 Dual Stack
+AS45796,AS36692,OpenDNS (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS3491,PCCW (HK),ISP-Inter,0.4,Gbps,Transit/IPv6 Dual Stack
+AS45796,AS3491,PCCW (SG),ISP-Inter,1,Gbps,Transit/IPv6 Dual Stack
+AS45796,AS24482,SG.GS (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS55518,SGIX (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS17676,SOFTBANK (SG),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS36351,SoftLayer (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS3303,Swisscom (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS4788,TM (MY),ISP-Inter,10,Gbps,Transit/IPv6 Dual Stack
+AS45796,AS46489,Twitch(SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS13414,Twitter (SG),ISP-Inter,10,Gbps,Peering
+AS45796,AS131267,UNITEL (LA),ISP-Inter,2,Gbps,IPv4
+AS45796,AS32590,VALVE (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS18106,Viewqwest (SG),ISP-Inter,10,Gbps,Peering
+AS45796,AS4826,Vocus (AU),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS10310,Yahoo (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45796,AS21859,Zenlayer (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45629,AS7616,Ji-NET,ISP-Local,10,Gbps,Transit/IPv6 Dual Stack
+AS45629,AS45758,Triple T Internet,ISP-Local,700,Gbps,Transit/IPv6 Dual Stack
+AS45629,AS4741,Samart Infonet,ISP-Local,1,Gbps,Transit/IPv6 Dual Stack
+AS45629,AS7693,KSC,ISP-Local,1.6,Gbps,IPv6 Dual Stack
+AS45629,AS4618,INET,ISP-Local,3.75,Gbps,Transit/IPv6 Dual Stack
+AS45629,AS45455,2S1N,ISP-Local,0.7,Gbps,Transit
+AS45629,AS45328,ISPIO (NIPA),ISP-Local,0.02,Gbps,IPv6 Dual Stack
+AS45629,AS55403,PTT ICT,ISP-Local,0.75,Gbps,IPv6 Dual Stack
+AS45629,AS714,Apple (SG),ISP-Inter,20,Gbps,Peering/IPv6 Dual Stack
+AS45629,AS4809,China Telecom (HK),ISP-Inter,3,Gbps,Transit/IPv6 Dual Stack
+AS45629,AS174,COGENT (US),ISP-Inter,5,Gbps,Transit/IPv6 Dual Stack
+AS45629,AS3320,DTAG (FR),ISP-Inter,1,Gbps,Transit/IPv6 Dual Stack
+AS45629,AS24115,Equinix (FR),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45629,AS24115,Equinix (SG),ISP-Inter,30,Gbps,Peering/IPv6 Dual Stack
+AS45629,AS32934,Facebook (MY),ISP-Inter,200,Gbps,Peering/IPv6 Dual Stack
+AS45629,AS32934,Facebook (SG),ISP-Inter,100,Gbps,Peering/IPv6 Dual Stack
+AS45629,AS51706,France IX (FR),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45629,AS15412,Global Cloud Xchange(SG),ISP-Inter,1.3,Gbps,Transit
+AS45629,AS15169,Google (MY),ISP-Inter,320,Gbps,Transit/IPv6 Dual Stack
+AS45629,AS24218,GTC (MY),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS45629,AS3257,GTT (SG) ,ISP-Inter,0.1,Gbps,Transit/IPv6 Dual Stack
+AS45629,AS9304,HGC (HK),ISP-Inter,1,Gbps,Transit/IPv6 Dual Stack
+AS45629,AS4635,HKIX (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45629,AS3356,Level3 (US),ISP-Inter,4,Gbps,Transit/IPv6 Dual Stack
+AS45629,AS22822,Limelight (SG),ISP-Inter,20,Gbps,Peering
+AS45629,AS8075,Microsoft (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45629,AS2906,Netflix (SG),ISP-Inter,20,Gbps,Peering/IPv6 Dual Stack
+AS45629,AS23576,NHN (SG) ,ISP-Inter,20,Gbps,Peering/IPv6 Dual Stack
+AS45629,AS2914,NTT (SG),ISP-Inter,0.2,Gbps,IPv4
+AS45629,AS3491,PCCW (SG),ISP-Inter,1,Gbps,Transit/IPv6 Dual Stack
+AS45629,AS7473,SingTel (SG),ISP-Inter,4,Gbps,Transit
+AS45629,AS6453,TATA (SG),ISP-Inter,7,Gbps,Transit/IPv6 Dual Stack
+AS45629,AS4637,Telstra (SG),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS45629,AS4788,TM (MY) ,ISP-Inter,3,Gbps,IPv4
+AS45629,AS46489,Twitch (SG),ISP-Inter,60,Gbps,Peering/IPv6 Dual Stack
+AS45629,AS13414,Twitter (SG),ISP-Inter,20,Gbps,Peering/IPv6 Dual Stack
+AS45629,AS1273,Vodafone (SG),ISP-Inter,1,Gbps,Transit/IPv6 Dual Stack
+AS45629,AS10310,Yahoo (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45629,AS1200,AMS-IX (AN),ISP-Inter,10,Gbps,Peering/IPv6 Tunneling
+AS45629,AS15133,Edgecast (SG),ISP-Inter,70,Gbps,Peering/IPv6 Dual Stack
+AS45629,AS16509,Amazon (SG),ISP-Inter,60,Gbps,Peering/IPv6 Dual Stack
+AS45629,AS6939,Hurricane (SG),ISP-Inter,10,Gbps,Transit/IPv6 Dual Stack
+AS7568,AS4750,CS Loxinfo,ISP-Local,80,Gbps,IPv6 Dual Stack
+AS7568,AS45430,AWN-IIG (SBN),IIG,0.5,Gbps,IPv4
+AS7568,AS9498,Airtel (SG),ISP-Inter,0.1,Gbps,Transit/IPv6 Dual Stack
+AS7568,AS24115,Equinix (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS20940,Akamai (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS38895,Amazon.com (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS714,Apple (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS2518,BIGLOBE (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS17451,Biznet Networks (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS38158,CBN Networks (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS36408,CDNetworks (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS13335,Cloudflare (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS33891,Core-Backbone (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS19679,Dropbox (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS15133,EdgeCast (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS8966,Etisalat (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS15695,Expereo (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS38182,Extreme Broadband (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS134363,EZIT (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS23939,EZNETSOLS (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS32934,Facebook (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS7598,Forcepoint (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS24218,GTC (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS17666,HitachiSunway (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS6939,Hurricane Electric (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS4739,iiNet (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS64096,Internet Harbor Global (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS45352,IP ServerOne (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS14413,LinkedIn (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS9534,Maxis (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS44654,Media Net (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS8075,Microsoft (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS23947,Moratelindo (SG,ISP-Inter,10,Gbps,Peering
+AS7568,AS132132,MyRepublic (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS55818,NAP Info (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS2906,Netflix (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS8674,Netnod (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS38001,NewMedia Express(SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS23576,NHN (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS4628,Pacific Internet (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS3856,PCH (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS42,PCH (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS8781,Qatar Telecom (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS7595,ReadySpace Pte Ltd (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS58436,SecureAX (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS24482,SG.GS (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS59318,SINET (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS36351,SoftLayer (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS45634,SparkStation (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS4844,SuperInternet (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS3303,Swisscom (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS17726,Telecom Cambodia (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS15932,Telenor Global (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS7713,TELIN (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS63516,Trans Hybrid Communication (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS703,Verizon (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS18106,ViewQwest (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS4826,Vocus (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS29791,Voxel (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS24203,XLNET (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS10310,Yahoo (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS21859,Zenlayer (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS32934,Facebook (MY),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS7568,AS15412,Global Cloud Xchange (SG),ISP-Inter,0.5,Gbps,Transit/IPv6 Dual Stack
+AS7568,AS15169,Google (MY),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS7568,AS15169,Google (SG),ISP-Inter,10,Gbps,Peering
+AS7568,AS8075,Microsoft (MY),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS7568,AS2914,NTT (SG),ISP-Inter,0.5,Gbps,Transit/IPv6 Dual Stack
+AS7568,AS3491,PCCW (SG),ISP-Inter,1.7,Gbps,Transit/IPv6 Dual Stack
+AS7568,AS7473,SingTel (SG),ISP-Inter,1,Gbps,Transit/IPv6 Dual Stack
+AS7568,AS6453,TATA (UK),ISP-Inter,0.1,Gbps,Transit/IPv6 Dual Stack
+AS7568,AS6762,Telecom Italia (SG),ISP-Inter,0.2,Gbps,Transit/IPv6 Dual Stack
+AS7568,AS4637,Telstra (SG),ISP-Inter,0.5,Gbps,Transit/IPv6 Dual Stack
+AS7568,AS1299,TeliaSonera (UK),ISP-Inter,0.13,Gbps,Transit/IPv6 Dual Stack
+AS10089,AS9587,Dtac Trinet ,ISP-Local,800,Gbps,Transit/IPv6 Dual Stack
+AS10089,AS45796,BB Connect-IIG,IIG,2,Gbps,Transit/IPv6 Dual Stack
+AS10089,AS4618,INET,ISP-Local,1,Gbps,Transit
+AS10089,AS59360,BBIX (SG),ISP-Inter,10,Gbps,Peering
+AS10089,AS8075,Microsoft (SG),ISP-Inter,10,Gbps,Peering
+AS10089,AS24115,Equinix (SG),ISP-Inter,20,Gbps,Peering/IPv6 Dual Stack
+AS10089,AS20940,Akamai (SG),ISP-Inter,20,Gbps,Peering/IPv6 Dual Stack
+AS10089,AS45102,Alibaba (SG),ISP-Inter,20,Gbps,Peering
+AS10089,AS38895,Amazon (SG),ISP-Inter,20,Gbps,Peering
+AS10089,AS135391,AOFEI (SG),ISP-Inter,20,Gbps,Peering
+AS10089,AS714,Apple (SG),ISP-Inter,20,Gbps,Peering
+AS10089,AS13335,CloudFlare (SG),ISP-Inter,20,Gbps,Peering/IPv6 Dual Stack
+AS10089,AS15133,EdgeCast (SG),ISP-Inter,20,Gbps,Peering
+AS10089,AS15695,Expereo (SG),ISP-Inter,20,Gbps,Peering
+AS10089,AS134363,EZIT (SG),ISP-Inter,20,Gbps,Peering/IPv6 Dual Stack
+AS10089,AS6939,Hericane (SG),ISP-Inter,20,Gbps,Peering
+AS10089,AS45352,IPServerOne (SG),ISP-Inter,20,Gbps,Peering
+AS10089,AS46786,IPTransit (SG),ISP-Inter,20,Gbps,Peering
+AS10089,AS16265,Leaseweb (SG),ISP-Inter,20,Gbps,Peering
+AS10089,AS22822,Limelight (SG),ISP-Inter,20,Gbps,Peering
+AS10089,AS2906,Netflix (SG),ISP-Inter,20,Gbps,Peering
+AS10089,AS23576,NHN (SG),ISP-Inter,20,Gbps,Peering
+AS10089,AS16276,OVH (SG),ISP-Inter,20,Gbps,Peering
+AS10089,AS42,PCH (SG),ISP-Inter,20,Gbps,Peering
+AS10089,AS36351,SoftLayer (SG),ISP-Inter,20,Gbps,Peering/IPv6 Dual Stack
+AS10089,AS45634,SparkStation (SG),ISP-Inter,20,Gbps,Peering
+AS10089,AS4844,SuperInternet (SG),ISP-Inter,20,Gbps,Peering
+AS10089,AS32590,Valvesoftware (SG),ISP-Inter,20,Gbps,Peering
+AS10089,AS14907,Wikimedia (SG),ISP-Inter,20,Gbps,Peering
+AS10089,AS10310,Yahoo (SG),ISP-Inter,20,Gbps,Peering/IPv6 Dual Stack
+AS10089,AS32934,Facebook (MY),ISP-Inter,100,Gbps,Peering/IPv6 Dual Stack
+AS10089,AS32934,Facebook (SG),ISP-Inter,100,Gbps,Peering/IPv6 Dual Stack
+AS10089,AS15169,Google (MY),ISP-Inter,100,Gbps,Peering/IPv6 Dual Stack
+AS10089,AS15169,Google (SG),ISP-Inter,100,Gbps,Peering
+AS10089,AS23576,NHN (SG),ISP-Inter,20,Gbps,Peering
+AS10089,AS6453,TATA (SG),ISP-Inter,10,Gbps,Transit/IPv6 Dual Stack
+AS10089,AS15932,Telenor Global (MY),ISP-Inter,100,Gbps,Transit/IPv6 Dual Stack
+AS10089,AS15932,Telenor Globa (MM),ISP-Inter,40,Gbps,Transit/IPv6 Dual Stack
+AS10089,AS15932,Telenor Global (HK),ISP-Inter,100,Gbps,Transit/IPv6 Dual Stack
+AS38082,AS4776,A-Net,ISP-Local,0.105,Gbps,IPv4
+AS38082,AS4618,INET,ISP-Local,0.7,Gbps,Transit/IPv6 Dual Stack
+AS38082,AS7654,ISSP,ISP-Local,0.8,Gbps,IPv6 Dual Stack
+AS38082,AS24187,KIRZ,ISP-Local,0.7,Gbps,IPv6 Dual Stack
+AS38082,AS7693,KSC,ISP-Local,3.26,Gbps,IPv6 Dual Stack
+AS38082,AS45328,NIPA.CLOUD,ISP-Local,0.01,Gbps,IPv6 Dual Stack
+AS38082,AS38566,NTT (TH),ISP-Local,0.5,Gbps,IPv6 Dual Stack
+AS38082,AS23884,PROEN Internet,ISP-Local,1.05,Gbps,IPv6 Dual Stack
+AS38082,AS56309,SIAMDATA,ISP-Local,0.1,Gbps,IPv4
+AS38082,AS4741,Smart Infonet,ISP-Local,0.25,Gbps,IPv6 Dual Stack
+AS38082,AS7470,True Internet Corporation,ISP-Local,716,Gbps,IPv6 Dual Stack
+AS38082,AS20940,Akamai (SG),ISP-Inter,10,Gbps,Peering
+AS38082,AS1200,AMS-IX (NL),ISP-Inter,30,Gbps,Peering
+AS38082,AS59360,BBIX (SG),ISP-Inter,10,Gbps,Peering
+AS38082,AS24115,Equinix (HK),ISP-Inter,20,Gbps,Peering
+AS38082,AS9989,Equinix (SG),ISP-Inter,100,Gbps,Peering
+AS38082,AS27354,Equinix (US),ISP-Inter,20,Gbps,Peering
+AS38082,AS32934,Facebook (MY),ISP-Inter,120,Gbps,Peering
+AS38082,AS32934,Facebook (SG),ISP-Inter,160,Gbps,Peering
+AS38082,AS15169,Google (MY),ISP-Inter,260,Gbps,Peering
+AS38082,AS15169,Google (SG),ISP-Inter,120,Gbps,Peering
+AS38082,AS3257,GTT (UK),ISP-Inter,10,Gbps,Transit
+AS38082,AS4635,HKIX (HK),ISP-Inter,10,Gbps,Peering
+AS38082,AS22822,Limelight (US),ISP-Inter,10,Gbps,Peering
+AS38082,AS22822,Limelight (SG),ISP-Inter,10,Gbps,Peering
+AS38082,AS5459,LINX (UK),ISP-Inter,20,Gbps,Peering
+AS38082,AS8071,Microsoft (SG),ISP-Inter,10,Gbps,Peering
+AS38082,AS8075,Microsoft (US),ISP-Inter,10,Gbps,Peering
+AS38082,AS2906,Netflix (SG),ISP-Inter,20,Gbps,Peering
+AS38082,AS2914,NTT (SG),ISP-Inter,20,Gbps,Transit
+AS38082,AS9293,NTT APAC (HK),ISP-Inter,2,Gbps,Peering
+AS38082,AS10026,Pacnet (SG),ISP-Inter,10,Gbps,Transit
+AS38082,AS7473,SingTel (SG),ISP-Inter,20,Gbps,Transit
+AS38082,AS1239,Sprint (US),ISP-Inter,10,Gbps,Transit
+AS38082,AS4657,StarHub (SG),ISP-Inter,10,Gbps,Peering
+AS38082,AS6453,TATA (SG),ISP-Inter,20,Gbps,Transit
+AS38082,AS1299,Telia Sonera (NL),ISP-Inter,10,Gbps,Transit
+AS38082,AS4637,Telstra (SG),ISP-Inter,10,Gbps,Transit
+AS38082,AS46489,Twitch (SG),ISP-Inter,60,Gbps,Peering
+AS38082,AS13414,Twitter (SG),ISP-Inter,20,Gbps,Peering
+AS38082,AS32590,Valve (SG),ISP-Inter,20,Gbps,Peering
+AS38082,AS16509,Amazon (SG),ISP-Inter,20,Gbps,Peering
+AS38082,AS15133,EdgeCast (SG),ISP-Inter,60,Gbps,Peering
+AS132876,AS132880,Symphony-ISP,ISP-Local,40,Gbps,IPv6 Dual Stack
+AS132876,AS23884,PROEN Internet,ISP-Local,0.2,Gbps,IPv6 Dual Stack
+AS132876,AS4621,Uninet,ISP-Govt,20,Gbps,IPv6 Dual Stack
+AS132876,AS4776,A-Net,ISP-Local,0.3,Gbps,IPv6 Dual Stack
+AS132876,AS134509,1-to-All,ISP-Local,0.2,Gbps,IPv4
+AS132876,AS4741,Samart Infonet,ISP-Local,0.08,Gbps,IPv6 Dual Stack
+AS132876,AS45142,Loxley,ISP-Local,0.4,Gbps,IPv4
+AS132876,AS23927,Milcom,ISP-Local,0.1,Gbps,IPv4
+AS132876,AS4618,INET,ISP-Local,0.5,Gbps,IPv4
+AS132876,AS6777,AMS-IX (NL),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS8560,1&1 Internet (NL),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS2687,AT&T (NL),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS25369,Bandwidth Technologies (NL),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS57976,Blizzard (NL),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS41690,Daliymotion (NL),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS19679,Dropbox (NL),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS9150,InterConnect (NL),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS30844,Liquid Telecom (NL),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS51185,Mainsoft (NL),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS8365,MANDA (NL),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS47869,Netrouting (NL),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS21478,PLEX (NL),ISP-Inter,10,Gbps,Peering
+AS132876,AS6730,Sunrise (NL),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS2119,Telenor (NL),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS46489,Twicth (NL),ISP-Inter,10,Gbps,Peering
+AS132876,AS3223,Voxility (NL),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS6461,Zayo (NL),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS8455,ATOM86 (NL),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS8426,CLARA (NL),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS200052,FERAL (NL),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS41692,OPENCARRIER (NL),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS12759,SOCO (NL),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS37662,WIOCC (NL),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS714,APPLE (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS9505,CHT (HK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS174,Cogent (HK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS6695,DE-CIX (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS8560,1&1 Internet (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS2686,AT&T (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS57976,Blizzard (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS42416,Comnet (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS41690,Daliymotion (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS19679,Dropbox (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS20773,HostEurope (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS29140,HostServer (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS30844,Liquid Telecom (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS8365,MANDA (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS47869,Netrouting (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS43350,NFOrce (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS42,PCH (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS12759,SOCO (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS6730,Sunrise (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS2119,Telenor (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS46489,Twicth (DE),ISP-Inter,1,Gbps,Peering
+AS132876,AS3223,Voxility (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS34347,CITYNET (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS8426,CLARA (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS47195,GAMEFORGE (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS198781,GENIUSNETWORKS (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS41692,OPENCARRIER (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS57344,Telehouse (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS37662,WIOCC (DE),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS24115,Equinix (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS20940,Akamai (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS38895,Amazon (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS21321,Areti Internet (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS2687,AT&T (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS17451,Biznet (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS3300,British Telecom (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS36408,CDNetworks (SG),ISP-Inter,10,Gbps,Peering
+AS132876,AS13335,CloudFlare (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS33891,Core-Backbone (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS41690,Dailymotion (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS7642,Dhiraagu (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS133165,Digital Ocean (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS15133,EdgeCast  (SG),ISP-Inter,10,Gbps,Peering
+AS132876,AS8966,Etisalat (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS23939,EZNETSOLS (SG),ISP-Inter,10,Gbps,Peering
+AS132876,AS54113,FASTLY (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS26496,GoDaddy (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS24218,GTC (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS6939,Hurricane (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS2497,IIJ (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS4761,INDOSAT (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS45352,IP ServerOne (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS10158,Kakao (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS3356,Level 3 (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS22822,Limelight (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS14413,LinkedIn (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS44654,Media Net (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS8075,Microsoft (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS23947,Moratelindo (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS132132,MyRepublic (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS2906,Netflix (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS8674,Netnod (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS23576,NHN (SG),ISP-Inter,10,Gbps,Peering
+AS132876,AS36692,OpenDNS (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS42,PCH (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS3856,PCH (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS8781,Qatar Telecom (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS24482,SG.GS (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS36351,SoftLayer (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS45634,Sparkstation (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS4844,SuperInternet (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS3303,Swisscom (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS7713,Telin (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS63516,Trans Hybrid (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS13414,Twitter  (SG),ISP-Inter,10,Gbps,Peering
+AS132876,AS32590,VALVE (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS18106,Viewqwest (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS4826,Vocus (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS29791,Voxel (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS199524,Wargaming (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS9381,Wharf T&T (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS10310,Yahoo (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS21859,Zenlayer (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS17660,BhutanTelecom (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS8426,CLARA (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS19324,DOSARREST (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS15695,EXPEREO (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS1248,HERE Global BV (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS3549,Level3 GBLX (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS16276,OVH (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS53813,ZSCALER (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS38901,Ezecom (KH),ISP-Inter,0.15,Gbps,IPv6 Dual Stack
+AS132876,AS32934,Facebook (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS51706,FRANCE IX,ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS20940,Akamai (FR),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS2686,AT&T (FR),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS57976,Blizzard (FR),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS15169,Google (MY),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS15169,Google (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS3257,GTT (SG),ISP-Inter,1,Gbps,Transit/IPv6 Dual Stack
+AS132876,AS9304,HGC (SG),ISP-Inter,1,Gbps,Transit/IPv6 Dual Stack
+AS132876,AS4635,HKIX (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS56190,ACME (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS58879,ANCHNET (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS58511,Anycast (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS17709,Asia Pacific Telecom (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS2687,AT&T (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS55967,Baidu (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS9416,CNS-KBT (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS8966,Etisalat (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS18403,FPT Telecom (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS9269,HKBN (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS58779,i4HK (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS45187,Rackspace (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS38726,VTC (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS21859,Zenlayer (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS63399,Dialpad (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS36236,NetActuate (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS16265,Leaseweb (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS6939,HE (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS19679,DROPBOX (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS64096,BIH (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS32787,Akamai (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS8075,Microsoft (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS42,PCH (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS133500,Lao Gateway (LA),ISP-Inter,0.05,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS8714,LINX (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS8560,1&1 Internet (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS2686,AT&T (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS57976,Blizzard (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS29636,Catalyst2 (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS61955,ColocationIX (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS41690,Daliymotion (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS19679,Dropbox (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS20773,HostEurope (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS30844,Liquid Telecom (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS8365,MANDA (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS47869,Netrouting (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS42,PCH (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS6730,Sunrise (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS2119,Telenor (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS46489,Twicth (UK),ISP-Inter,1,Gbps,Peering
+AS132876,AS3223,Voxility (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS13037,Zen Internet (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS8426,CLARA (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS19324,DOSARREST (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS15695,EXPEREO (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS200052,FERAL (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS198781,GENIUSNETWORKS (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS12759,SOCO (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS37662,WIOCC (UK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS13538,NYIIX (US),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS29838,Atlantic Metro (US),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS36236,NetActuate (US),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS23900,Planetcom (LA),ISP-Inter,0.4,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS7473,SingTel (SG),ISP-Inter,1,Gbps,Transit/IPv6 Dual Stack
+AS132876,AS24337,SKY Telecom (Lao),ISP-Inter,0.8,Gbps,Peering
+AS132876,AS6453,TATA (SG),ISP-Inter,1,Gbps,Transit/IPv6 Dual Stack
+AS132876,AS1299,Telia Sonera (SG),ISP-Inter,2,Gbps,Transit/IPv6 Dual Stack
+AS132876,AS46489,Twitch (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS132876,AS32590,VALVE (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS58430,AS38040,TOT-IIG,IIG,0.3,Gbps,Transit/IPv6 Dual Stack
+AS58430,AS17887,TCCT-ISP,ISP-Local,2,Gbps,Transit/IPv6 Dual Stack
+AS58430,AS45223,OTARO,ISP-Local,1,Gbps,Transit
+AS58430,AS137248,Dots Solutions,ISP-Local,0.6,Gbps,Transit/IPv6 Dual Stack
+AS58430,AS9505,CHT (HK),ISP-Inter,1,Gbps,Transit/IPv6 Dual Stack
+AS58430,AS9902,NTC (KH),ISP-Inter,1,Gbps,Peering
+AS58430,AS24115,Equinix (SG),ISP-Inter,1,Gbps,IPv4
+AS58430,AS20940,Akamai (SG),ISP-Inter,1,Gbps,IPv4
+AS58430,AS714,Apple (SG),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS58430,AS17451,Biznet (SG),ISP-Inter,1,Gbps,IPv4
+AS58430,AS36408,CDNetworks (SG),ISP-Inter,1,Gbps,IPv4
+AS58430,AS13335,CloudFlare (SG),ISP-Inter,1,Gbps,IPv4
+AS58430,AS133165,Digital Ocean (SG),ISP-Inter,1,Gbps,IPv4
+AS58430,AS19324,Dosarest (SG),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS58430,AS15133,EdgeCast Networks (SG),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS58430,AS23939,EZNETSOLS (SG),ISP-Inter,1,Gbps,IPv4
+AS58430,AS18403,FPT (VN),ISP-Inter,1,Gbps,Peering
+AS58430,AS15169,Google (SG),ISP-Inter,1,Gbps,IPv4
+AS58430,AS24218,GTC (SG),ISP-Inter,1,Gbps,IPv4
+AS58430,AS6939,Hurricane (SG),ISP-Inter,1,Gbps,IPv4
+AS58430,AS4761,INDOSAT (SG),ISP-Inter,1,Gbps,IPv4
+AS58430,AS64096,Internet Harbor Global (SG),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS58430,AS8075,Microsoft (SG),ISP-Inter,1,Gbps,IPv4
+AS58430,AS2906,Netflix (SG),ISP-Inter,1,Gbps,IPv4
+AS58430,AS8674,Netnod (SG),ISP-Inter,1,Gbps,IPv4
+AS58430,AS3856,PCH (SG),ISP-Inter,1,Gbps,IPv4
+AS58430,AS42,PCH (SG),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS58430,AS36351,SoftLayer (SG),ISP-Inter,1,Gbps,IPv4
+AS58430,AS8403,Spotify (SG),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS58430,AS132203,Tencent (SG),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS58430,AS13414,Twitter (SG),ISP-Inter,1,Gbps,IPv4
+AS58430,AS32590,VALVE (SG),ISP-Inter,1,Gbps,IPv4
+AS58430,AS10310,Yahoo (SG),ISP-Inter,1,Gbps,IPv4
+AS58430,AS54994,QUANTIL (HK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS58430,AS58430,CCT (SG),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS58430,AS32590,VALVE (SG),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS58430,AS13335,CloudFlare (SG),ISP-Inter,1,Gbps,Transit
+AS58430,AS6939,Hurricane (SG),ISP-Inter,1,Gbps,Transit
+AS58430,AS8674,Netnod (SG),ISP-Inter,1,Gbps,Transit
+AS58430,AS3856,PCH (SG),ISP-Inter,1,Gbps,Transit
+AS58430,AS32590,VALVE (SG),ISP-Inter,1,Gbps,Transit
+AS38040,AS38450,GIN,ISP-Govt,1,Gbps,Transit/IPv6 Dual Stack
+AS38040,AS4618,INET,ISP-Local,3,Gbps,Transit/IPv6 Dual Stack
+AS38040,AS23974,MOE,ISP-Govt,50,Gbps,Transit/IPv6 Dual Stack
+AS38040,AS23884,PROEN,ISP-Local,0.05,Gbps,Transit/IPv6 Dual Stack
+AS38040,AS58430,TCCT-IIG,IIG,0.3,Gbps,Transit/IPv6 Dual Stack
+AS38040,AS17887,TCCT-ISP,ISP-Local,0.35,Gbps,Transit/IPv6 Dual Stack
+AS38040,AS23969,TOT ISP,ISP-Local,400,Gbps,Transit/IPv6 Dual Stack
+AS38040,AS131293,TOT LLI,ISP-Local,30,Gbps,Transit/IPv6 Dual Stack
+AS38040,AS134166,TOT-IDC,ISP-Local,40,Gbps,Transit/IPv6 Dual Stack
+AS38040,AS20940,Akamai (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS38895,Amazon (SG),ISP-Inter,40,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS6777,AMS-IX (NL),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS19996,Any2Coresite (US),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS714,Apple (SG),ISP-Inter,40,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS4809,China Telecom (HK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS13335,Cloudflare (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS6695,DE-CIX (DE),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS174,Cogent (US),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS41690,Dailymotion (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS15133,EdgeCast (SG),ISP-Inter,20,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS24115,Equinix (SG),ISP-Inter,20,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS24115,Equinix-SJC (US),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS32934,Facebook (MY),ISP-Inter,100,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS32934,Facebook (SG),ISP-Inter,200,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS15169,Google (MY),ISP-Inter,200,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS15169,Google (SG),ISP-Inter,40,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS9269,HKBN (HK),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS4635,HKIX (HK),ISP-Inter,10,Gbps,Transit/IPv6 Dual Stack
+AS38040,AS51706,France IX (Fr),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS38621,Limelight (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS8075,Microsoft (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS2906,Netflix (SG),ISP-Inter,20,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS23576,NHN (SG),ISP-Inter,40,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS2914,NTT (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS3356,Level3 (US),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS9318,SKB (KR),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS4657,StarHub (SG),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS6762,Telecom Italia (SG),ISP-Inter,5,Gbps,Transit/IPv6 Dual Stack
+AS38040,AS8714,LINX (UK),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS1299,Teliasonera (SG),ISP-Inter,5,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS46489,Twitch (SG),ISP-Inter,20,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS32590,VALVE (SG),ISP-Inter,20,Gbps,Peering/IPv6 Dual Stack
+AS38040,AS701,Verizon (US),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS134509,AS24218,GTC (MY),ISP-Inter,0.2,Gbps,IPv4
+AS45458,AS4637,Telstra (SG),ISP-Inter,40,Gbps,IPv6 Dual Stack
+AS45458,AS4637,Telstra (HK),ISP-Inter,10,Gbps,IPv6 Dual Stack
+AS45458,AS2914,NTT (HK),ISP-Inter,10,Gbps,IPv6 Dual Stack
+AS45458,AS3491,PCCW (HK),ISP-Inter,20,Gbps,IPv6 Dual Stack
+AS9931,AS10226,ETL (LA),ISP-Inter,1.6,Gbps,IPv4
+AS9931,AS9873,LAO Telecom (LA),ISP-Inter,2,Gbps,IPv4
+AS9931,AS24115,Equinix (SG),ISP-Inter,1,Gbps,Peering
+AS9931,AS9505,CHT-I (TW),ISP-Inter,0.09,Gbps,Peering
+AS9931,AS131267,UNITEL (LAOS),ISP-Inter,0.35,Gbps,IPv4
+AS24187,AS9505,CHT (SG),ISP-Inter,0.3,Gbps,IPv4
+AS24187,AS2914,NTT (SG),ISP-Inter,0.8,Gbps,IPv4
+AS24187,AS24218,GTC (MY),ISP-Inter,0.2,Gbps,IPv4
+AS4765,AS4628,Pacific Internet (SG),ISP-Inter,0.2,Gbps,Peering
+AS4765,AS9304,HGC (HK),ISP-Inter,0.1,Gbps,Peering
+AS56309,AS9304,HGC (HK),ISP-Inter,0.05,Gbps,Transit
+AS23884,AS45474,NexusGuard (SG),ISP-Inter,10,Gbps,Peering
+AS23884,AS45474,NexusGuard (HK),ISP-Inter,10,Gbps,Peering
+AS24475,AS24490,TEIN4 (HK),ISP-Inter,1,Gbps,Transit
+AS24475,AS17934,JGN-IX (SG),ISP-Inter,1,Gbps,Transit
+AS45758,AS19996,Any2Coresite (US),ISP-Inter,1,Gbps,Peering/IPv6 Dual Stack
+AS45758,AS1273,C&W (FR),ISP-Inter,1,Gbps,Transit/IPv6 Dual Stack
+AS45758,AS9505,CHT (SG),ISP-Inter,3,Gbps,Transit/IPv6 Dual Stack
+AS45758,AS174,Cogent (FR),ISP-Inter,3,Gbps,Transit/IPv6 Dual Stack
+AS45758,AS174,Cogent (US),ISP-Inter,5,Gbps,Transit/IPv6 Dual Stack
+AS45758,AS6695,DE-CIX (DE),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45758,AS24115,Equinix-SJC (US),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45758,AS15412,Global Cloud Xchang (SG),ISP-Inter,3,Gbps,Transit/IPv6 Dual Stack
+AS45758,AS3356,L3 (US),ISP-Inter,4,Gbps,Transit/IPv6 Dual Stack
+AS45758,AS8075,Microsoft (US),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45758,AS4436,nLayer (US),ISP-Inter,4,Gbps,Transit/IPv6 Dual Stack
+AS45758,AS2914,NTT (SG),ISP-Inter,5,Gbps,Transit/IPv6 Dual Stack
+AS45758,AS46786,PAIX (US),ISP-Inter,10,Gbps,Peering/IPv6 Dual Stack
+AS45758,AS3491,PCCW (HK),ISP-Inter,2.5,Gbps,Transit/IPv6 Dual Stack
+AS45758,AS6453,TATA (US),ISP-Inter,2,Gbps,Transit/IPv6 Dual Stack
+AS45758,AS6762,Telecom Italia (FR),ISP-Inter,1,Gbps,Transit/IPv6 Dual Stack
+AS45758,AS1299,Telesonera (FR),ISP-Inter,2,Gbps,Transit/IPv6 Dual Stack
+AS45758,AS7473,Singtel (SG),ISP-Inter,4,Gbps,Transit/IPv6 Dual Stack
+AS38794,AS12076,Microsoft (SG),ISP-Inter,2,Gbps,IPv4
+AS38794,AS38895,Amazon (SG),ISP-Inter,10,Gbps,IPv4

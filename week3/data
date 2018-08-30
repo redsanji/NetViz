@@ -1,0 +1,41 @@
+USER
+
+
+IP
+
+
+LOGIN/LOGOUT
+
+
+RATIO IP USAGE
+cut -d' ' -f6-7 login-20170102-anon.csv.txt | sort | grep -v '-' | uniq | wc -l
+dual 3127 1132
+cut -d' ' -f6-7 login-20170102-anon.csv.txt | sort | grep .- | uniq | wc -l
+ipv4 4000 1320
+cut -d' ' -f6-7 login-20170102-anon.csv.txt | sort | grep ^- | uniq | wc -l
+ipv6 10 5
+
+LOGIN-SERVER
+cut -d' ' -f8 login-20170102-anon.csv.txt | sort | uniq -c
+ 644 ::ffff:158.108.218.201
+ 643 ::ffff:158.108.218.202
+ 553 ::ffff:158.108.218.203
+ 665 ::ffff:158.108.218.204
+ 570 ::ffff:158.108.218.205
+ 570 ::ffff:158.108.218.206
+ 589 ::ffff:158.108.218.207
+ 567 ::ffff:158.108.218.208
+ 548 ::ffff:158.108.218.209
+ 592 ::ffff:158.108.218.210
+ 523 ::ffff:158.108.218.211
+ 673 ::ffff:158.108.218.212
+
+LOGIN-ACTIVITY
+cut -d' ' -f9 login-20170102-anon.csv.txt | sort | grep login | wc -l
+login 3574
+cut -d' ' -f9 login-20170102-anon.csv.txt | sort | grep RE | wc -l
+RE-login 229
+cut -d' ' -f9 login-20170102-anon.csv.txt | sort | grep logout | wc -l
+logout 22
+cut -d' ' -f9 login-20170102-anon.csv.txt | sort | grep TIME | wc -l
+timeout 3312
