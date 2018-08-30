@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html style="height: 100%">
+
+<head>
+    <meta charset="utf-8">
+</head>
+
+<body style="height: 100%; margin: 0">
+    <div id="container" style="height: 100%"></div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/echarts.min.js"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts-gl/echarts-gl.min.js"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts-stat/ecStat.min.js"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/extension/dataTool.min.js"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/map/js/china.js"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/map/js/world.js"></script>
+    <script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=ZUONbpqGBsYGXNIYHicvbAbM"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/extension/bmap.min.js"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/simplex.js"></script>
+    <script type="text/javascript">
+        var dom = document.getElementById("container");
+        var myChart = echarts.init(dom);
+        var app = {};
+        option = null;
+        myChart.showLoading();
+        myChart.hideLoading();
+        myChart.setOption(option = {
+    title: {
+        text: 'Login-Server',
+    },
+    color: ['#3398DB'],
+    tooltip : {
+        trigger: 'axis',
+        axisPointer : {            
+            type : 'line'       
+        }
+    },
+    grid: {
+        left: '3%',
+        right: '4%',
+        bottom: '3%',
+        containLabel: true
+    },
+    xAxis : [
+        {
+            type : 'category',
+            data : ['::ffff:158.108.218.201', '::ffff:158.108.218.202', '::ffff:158.108.218.203', '::ffff:158.108.218.204', '::ffff:158.108.218.205', '::ffff:158.108.218.206', '::ffff:158.108.218.207', '::ffff:158.108.218.208', '::ffff:158.108.218.209', '::ffff:158.108.218.210', '::ffff:158.108.218.211', '::ffff:158.108.218.212'],
+            axisTick: {
+                alignWithLabel: false
+            }
+        }
+    ],
+    yAxis : [
+        {
+            type : 'value'
+        }
+    ],
+    series : [
+        {
+            name:'Number',
+            type:'bar',
+            barWidth: '60%',
+            data:[644, 643, 553, 665, 570, 570, 589, 567, 548, 592, 523, 673]
+        }
+    ]
+}, true);
+if (option && typeof option === "object") {
+    myChart.setOption(option, true);
+}
+    </script>
+</body>
+
+</html>
