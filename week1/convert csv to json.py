@@ -2,16 +2,16 @@ import csv
 import random
 import json
 
-csvfile = open('./International Exchange.csv')
+csvfile = open('./Domestic Exchange.csv')
 reader = csv.DictReader(csvfile)
 nodes = []
 edges = []
 nodeDict = {}
 for row in reader:
-    colorgen = "%06x" % random.randint(0, 0xFFFFFF)
+    colorgen =  "%06x" % random.randint(0, 0xFFFFFF)
     if row['ASN'] not in nodeDict:
         node = {
-            "color": colorgen,
+            "color": '#'+colorgen,
             "label": row['Name'],
             "attributes": {},
             "x": random.randint(-1000,1000),
