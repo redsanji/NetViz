@@ -1,0 +1,2548 @@
+{
+    "nodes": [
+        {
+            "name": "dns.joox.com",
+            "value": 50
+        },
+        {
+            "name": "hkextshort.weixin.qq.com",
+            "value": 50
+        },
+        {
+            "name": "log.getdropbox.com",
+            "value": 50
+        },
+        {
+            "name": "oem.twimg.com",
+            "value": 50
+        },
+        {
+            "name": "r5---sn-npoe7n7z.googlevideo.com",
+            "value": 50
+        },
+        {
+            "name": "th-th.appex-rf.msn.com",
+            "value": 50
+        },
+        {
+            "name": "www.thailandtouristpolice.com",
+            "value": 50
+        },
+        {
+            "name": "www.tour-bangkok.com",
+            "value": 50
+        },
+        {
+            "name": "www.wannyshop.com",
+            "value": 50
+        },
+        {
+            "name": "is3.mzstatic.com",
+            "value": 51
+        },
+        {
+            "name": "tv1-pt.line-apps.com",
+            "value": 51
+        },
+        {
+            "name": "vortex.data.microsoft.com",
+            "value": 51
+        },
+        {
+            "name": "www.popza99.net",
+            "value": 51
+        },
+        {
+            "name": "www.tccom.co.th",
+            "value": 51
+        },
+        {
+            "name": "www.thailandpolo.or.th",
+            "value": 51
+        },
+        {
+            "name": "www.xn--12cau2cwaprwuyw0a1hm9fwj0f.com",
+            "value": 51
+        },
+        {
+            "name": "x.bidswitch.net",
+            "value": 51
+        },
+        {
+            "name": "banner.bumq.com",
+            "value": 52
+        },
+        {
+            "name": "csi.gstatic.com",
+            "value": 52
+        },
+        {
+            "name": "d1adefie7lo7jl.cloudfront.net",
+            "value": 52
+        },
+        {
+            "name": "dnl-01.geo.kaspersky.com",
+            "value": 52
+        },
+        {
+            "name": "dnl-10.geo.kaspersky.com",
+            "value": 52
+        },
+        {
+            "name": "get-seeders.com",
+            "value": 52
+        },
+        {
+            "name": "i.imgur.com",
+            "value": 52
+        },
+        {
+            "name": "i.w.inmobi.com",
+            "value": 52
+        },
+        {
+            "name": "openxjapan-d.openx.net",
+            "value": 52
+        },
+        {
+            "name": "server.cpmstar.com",
+            "value": 52
+        },
+        {
+            "name": "up.bav.baidu.com",
+            "value": 52
+        },
+        {
+            "name": "www.powerbuy.co.th",
+            "value": 52
+        },
+        {
+            "name": "www.thai-german-cooperation.info",
+            "value": 52
+        },
+        {
+            "name": "www.thaiedu.net",
+            "value": 52
+        },
+        {
+            "name": "www.trainingcenter.co.th",
+            "value": 52
+        },
+        {
+            "name": "xn--12cabup1ktah0b6c1c2a1n8d8atw.th",
+            "value": 52
+        },
+        {
+            "name": "iphonesubmissions.apple.com",
+            "value": 53
+        },
+        {
+            "name": "shop.line-cdn.net:80",
+            "value": 53
+        },
+        {
+            "name": "weather.noaa.gov",
+            "value": 53
+        },
+        {
+            "name": "www.hiview.org",
+            "value": 53
+        },
+        {
+            "name": "www.jav2gether.com",
+            "value": 53
+        },
+        {
+            "name": "www.tgsaving.com",
+            "value": 53
+        },
+        {
+            "name": "www.thaksina.net",
+            "value": 53
+        },
+        {
+            "name": "www.tigta.in.th",
+            "value": 53
+        },
+        {
+            "name": "54.169.131.252:3000",
+            "value": 54
+        },
+        {
+            "name": "7.tlu.dl.delivery.mp.microsoft.com",
+            "value": 54
+        },
+        {
+            "name": "dl.profile.line-cdn.net",
+            "value": 54
+        },
+        {
+            "name": "get35.com",
+            "value": 54
+        },
+        {
+            "name": "s3.amazonaws.com",
+            "value": 54
+        },
+        {
+            "name": "t.appsflyer.com",
+            "value": 54
+        },
+        {
+            "name": "tangerine.nexage.com",
+            "value": 54
+        },
+        {
+            "name": "www.maepeng.com",
+            "value": 54
+        },
+        {
+            "name": "www.temcathai.com",
+            "value": 54
+        },
+        {
+            "name": "www.thailandpages.com",
+            "value": 54
+        },
+        {
+            "name": "www.thaiwatsadu.com",
+            "value": 54
+        },
+        {
+            "name": "www.thanachart2car.com",
+            "value": 54
+        },
+        {
+            "name": "www.xn--22ckj0hey2b4b4nvb.th",
+            "value": 54
+        },
+        {
+            "name": "203.151.183.194",
+            "value": 55
+        },
+        {
+            "name": "ads.2mdnsys.com",
+            "value": 55
+        },
+        {
+            "name": "cdn.edgecast.cs.steampowered.com",
+            "value": 55
+        },
+        {
+            "name": "cyad1.nate.com",
+            "value": 55
+        },
+        {
+            "name": "img-l3.xvideos.com",
+            "value": 55
+        },
+        {
+            "name": "maps.googleapis.com",
+            "value": 55
+        },
+        {
+            "name": "master7.teamviewer.com",
+            "value": 55
+        },
+        {
+            "name": "r6---sn-npoeen76.googlevideo.com",
+            "value": 55
+        },
+        {
+            "name": "safebrowsing.google.com",
+            "value": 55
+        },
+        {
+            "name": "www.thaicarclub.com",
+            "value": 55
+        },
+        {
+            "name": "www.uniag.sk",
+            "value": 55
+        },
+        {
+            "name": "apis.google.com",
+            "value": 56
+        },
+        {
+            "name": "dnl-13.geo.kaspersky.com",
+            "value": 56
+        },
+        {
+            "name": "espn.hb.omtrdc.net",
+            "value": 56
+        },
+        {
+            "name": "porn555.agat-tech.com",
+            "value": 56
+        },
+        {
+            "name": "thaigel.original-titangel.com",
+            "value": 56
+        },
+        {
+            "name": "watch.busters.porn",
+            "value": 56
+        },
+        {
+            "name": "www.peoplefu.com",
+            "value": 56
+        },
+        {
+            "name": "www.thehideaway-resort.com",
+            "value": 56
+        },
+        {
+            "name": "www.xn--12ca0fopagg5kc9ab5lwe.com",
+            "value": 56
+        },
+        {
+            "name": "www.yasocity.com",
+            "value": 56
+        },
+        {
+            "name": "ap.ime.cootek.com",
+            "value": 57
+        },
+        {
+            "name": "client-cf.dropbox.com",
+            "value": 57
+        },
+        {
+            "name": "jp-u.openx.net",
+            "value": 57
+        },
+        {
+            "name": "tracker.departapp.com",
+            "value": 57
+        },
+        {
+            "name": "whos.amung.us",
+            "value": 57
+        },
+        {
+            "name": "www.kingsmanga.net",
+            "value": 57
+        },
+        {
+            "name": "www.suayd.com",
+            "value": 57
+        },
+        {
+            "name": "ace.naver.com",
+            "value": 58
+        },
+        {
+            "name": "apelsinnik.website",
+            "value": 58
+        },
+        {
+            "name": "d.agkn.com",
+            "value": 58
+        },
+        {
+            "name": "data.flurry.com",
+            "value": 58
+        },
+        {
+            "name": "media.mizuno.com",
+            "value": 58
+        },
+        {
+            "name": "www.asrock.com",
+            "value": 58
+        },
+        {
+            "name": "www.mangathai.com",
+            "value": 58
+        },
+        {
+            "name": "www.pentasex.com",
+            "value": 58
+        },
+        {
+            "name": "www.seriesfun.com",
+            "value": 58
+        },
+        {
+            "name": "www.tro.moph.go.th",
+            "value": 58
+        },
+        {
+            "name": "d.dropbox.com",
+            "value": 59
+        },
+        {
+            "name": "finance.services.appex.bing.com",
+            "value": 59
+        },
+        {
+            "name": "image2.pubmatic.com",
+            "value": 59
+        },
+        {
+            "name": "match.adsrvr.org",
+            "value": 59
+        },
+        {
+            "name": "r2---sn-qu5j-c33z.googlevideo.com",
+            "value": 59
+        },
+        {
+            "name": "r5---sn-npoeen7k.googlevideo.com",
+            "value": 59
+        },
+        {
+            "name": "srv-live.lazada.co.th",
+            "value": 59
+        },
+        {
+            "name": "www.bing.com",
+            "value": 59
+        },
+        {
+            "name": "www.googletagmanager.com",
+            "value": 59
+        },
+        {
+            "name": "cdnstats-a.akamaihd.net",
+            "value": 60
+        },
+        {
+            "name": "cl2.apple.com",
+            "value": 60
+        },
+        {
+            "name": "dnl-05.geo.kaspersky.com",
+            "value": 60
+        },
+        {
+            "name": "officeclient.microsoft.com",
+            "value": 60
+        },
+        {
+            "name": "spnet33.i-mobile.co.jp",
+            "value": 60
+        },
+        {
+            "name": "checkip.dyndns.com",
+            "value": 61
+        },
+        {
+            "name": "kissmanga.com",
+            "value": 61
+        },
+        {
+            "name": "nexus.officeapps.live.com",
+            "value": 61
+        },
+        {
+            "name": "p27-ckdatabase.icloud.com",
+            "value": 61
+        },
+        {
+            "name": "p54-ckdatabase.icloud.com",
+            "value": 61
+        },
+        {
+            "name": "rt.gsspat.jp",
+            "value": 61
+        },
+        {
+            "name": "usa.ime.cootek.com",
+            "value": 61
+        },
+        {
+            "name": "www.bangkokbiznews.com",
+            "value": 61
+        },
+        {
+            "name": "www.thailandhoreca.com",
+            "value": 61
+        },
+        {
+            "name": "203.154.179.26",
+            "value": 62
+        },
+        {
+            "name": "job.gamedek.net",
+            "value": 62
+        },
+        {
+            "name": "opps.taboola.com",
+            "value": 62
+        },
+        {
+            "name": "s7.addthis.com",
+            "value": 62
+        },
+        {
+            "name": "stats.g.doubleclick.net",
+            "value": 62
+        },
+        {
+            "name": "www.3322.org",
+            "value": 62
+        },
+        {
+            "name": "dnl-08.geo.kaspersky.com",
+            "value": 63
+        },
+        {
+            "name": "events.gfe.nvidia.com",
+            "value": 63
+        },
+        {
+            "name": "img-hw.xvideos.com",
+            "value": 63
+        },
+        {
+            "name": "r2---sn-0opoxuui5pa5oq-c33e.googlevideo.com",
+            "value": 63
+        },
+        {
+            "name": "th.stream.music.joox.com",
+            "value": 63
+        },
+        {
+            "name": "www.thaisoccernet.com",
+            "value": 63
+        },
+        {
+            "name": "dl.google.com",
+            "value": 64
+        },
+        {
+            "name": "dnl-17.geo.kaspersky.com",
+            "value": 64
+        },
+        {
+            "name": "image4test.castleagegame.com",
+            "value": 64
+        },
+        {
+            "name": "ocsp.verisign.com",
+            "value": 64
+        },
+        {
+            "name": "up.goal.in.th",
+            "value": 64
+        },
+        {
+            "name": "www.sciencedirect.com",
+            "value": 64
+        },
+        {
+            "name": "gsp10-ssl.apple.com",
+            "value": 65
+        },
+        {
+            "name": "dnl-14.geo.kaspersky.com",
+            "value": 66
+        },
+        {
+            "name": "master2.teamviewer.com",
+            "value": 66
+        },
+        {
+            "name": "ping.chartbeat.net",
+            "value": 66
+        },
+        {
+            "name": "smusic.app.wechat.com",
+            "value": 66
+        },
+        {
+            "name": "theflowerbylek.com",
+            "value": 66
+        },
+        {
+            "name": "tracker.stats.in.th",
+            "value": 66
+        },
+        {
+            "name": "translate.google.com",
+            "value": 66
+        },
+        {
+            "name": "um03.eset.com",
+            "value": 66
+        },
+        {
+            "name": "yrh.moph.go.th",
+            "value": 66
+        },
+        {
+            "name": "cm.g.doubleclick.net",
+            "value": 67
+        },
+        {
+            "name": "pixel.rubiconproject.com",
+            "value": 67
+        },
+        {
+            "name": "shop.line-cdn.net",
+            "value": 67
+        },
+        {
+            "name": "vl.ff.avast.com",
+            "value": 67
+        },
+        {
+            "name": "www.intechnical.net",
+            "value": 67
+        },
+        {
+            "name": "www.jovetech.com",
+            "value": 67
+        },
+        {
+            "name": "www.nekopost.net",
+            "value": 67
+        },
+        {
+            "name": "www.wangdek.com",
+            "value": 67
+        },
+        {
+            "name": "checkip.dyndns.org",
+            "value": 68
+        },
+        {
+            "name": "dnl-00.geo.kaspersky.com",
+            "value": 68
+        },
+        {
+            "name": "image.watch8x.com",
+            "value": 68
+        },
+        {
+            "name": "imgg-cdn.mgid.com",
+            "value": 68
+        },
+        {
+            "name": "showads.pubmatic.com",
+            "value": 68
+        },
+        {
+            "name": "ssl.google-analytics.com",
+            "value": 68
+        },
+        {
+            "name": "sync.security.baidu.co.th",
+            "value": 68
+        },
+        {
+            "name": "vast.ssp.optimatic.com",
+            "value": 68
+        },
+        {
+            "name": "www.teeteawthai.com",
+            "value": 68
+        },
+        {
+            "name": "cdn.x1cdn.com",
+            "value": 69
+        },
+        {
+            "name": "cdn.yengo.com",
+            "value": 69
+        },
+        {
+            "name": "code.yengo.com",
+            "value": 69
+        },
+        {
+            "name": "dnl-02.geo.kaspersky.com",
+            "value": 69
+        },
+        {
+            "name": "i.adingo.jp",
+            "value": 69
+        },
+        {
+            "name": "n-cdn-origin.areyouahuman.com",
+            "value": 69
+        },
+        {
+            "name": "pubads.g.doubleclick.net",
+            "value": 69
+        },
+        {
+            "name": "track1.aniview.com",
+            "value": 69
+        },
+        {
+            "name": "us.launcher.battle.net",
+            "value": 69
+        },
+        {
+            "name": "www.trainingbymotiva.com",
+            "value": 69
+        },
+        {
+            "name": "r1---sn-0opoxuui5pa5oq-c33l.googlevideo.com",
+            "value": 70
+        },
+        {
+            "name": "r2---sn-0opoxuui5pa5oq-c33l.googlevideo.com",
+            "value": 70
+        },
+        {
+            "name": "www.update.microsoft.com",
+            "value": 70
+        },
+        {
+            "name": "www.wktiles.com",
+            "value": 70
+        },
+        {
+            "name": "imp.mklaud.com",
+            "value": 71
+        },
+        {
+            "name": "profile.line-cdn.net",
+            "value": 71
+        },
+        {
+            "name": "steamcommunity-a.akamaihd.net",
+            "value": 71
+        },
+        {
+            "name": "www.thaivivat.co.th",
+            "value": 71
+        },
+        {
+            "name": "cdn.highwinds.cs.steampowered.com",
+            "value": 72
+        },
+        {
+            "name": "www.thaicatwalk.com",
+            "value": 72
+        },
+        {
+            "name": "trc.taboola.com",
+            "value": 73
+        },
+        {
+            "name": "hm.baidu.com",
+            "value": 74
+        },
+        {
+            "name": "lbs.map.qq.com",
+            "value": 74
+        },
+        {
+            "name": "pixel.yabidos.com",
+            "value": 74
+        },
+        {
+            "name": "translate.phinf.naver.net",
+            "value": 74
+        },
+        {
+            "name": "ups.ksmobile.net",
+            "value": 74
+        },
+        {
+            "name": "www.javvdo.com",
+            "value": 74
+        },
+        {
+            "name": "www.tbmccs.go.th",
+            "value": 74
+        },
+        {
+            "name": "www.thaiclever.com",
+            "value": 74
+        },
+        {
+            "name": "www.thaiscience.eu",
+            "value": 74
+        },
+        {
+            "name": "192.240.126.154:5858",
+            "value": 75
+        },
+        {
+            "name": "crashapi.growingio.com",
+            "value": 75
+        },
+        {
+            "name": "stoppblock.org",
+            "value": 75
+        },
+        {
+            "name": "v2st.shinobi.jp",
+            "value": 75
+        },
+        {
+            "name": "valve1005.steamcontent.com",
+            "value": 75
+        },
+        {
+            "name": "vjav2.hclips.net",
+            "value": 75
+        },
+        {
+            "name": "www.hsv.de",
+            "value": 75
+        },
+        {
+            "name": "www.thailandexhibition.com",
+            "value": 75
+        },
+        {
+            "name": "203.205.151.170",
+            "value": 76
+        },
+        {
+            "name": "cm.mgid.com",
+            "value": 76
+        },
+        {
+            "name": "fonts.googleapis.com",
+            "value": 76
+        },
+        {
+            "name": "ialaddin.genieesspv.jp",
+            "value": 76
+        },
+        {
+            "name": "stream.music.joox.com",
+            "value": 76
+        },
+        {
+            "name": "www.nekopost.net:8080",
+            "value": 76
+        },
+        {
+            "name": "www.vrsstudio.com",
+            "value": 76
+        },
+        {
+            "name": "91.228.167.21",
+            "value": 77
+        },
+        {
+            "name": "api.chillfm.fm",
+            "value": 77
+        },
+        {
+            "name": "cdn.optimatic.com",
+            "value": 77
+        },
+        {
+            "name": "serve.popads.net",
+            "value": 77
+        },
+        {
+            "name": "ssl.gstatic.com",
+            "value": 77
+        },
+        {
+            "name": "wtc.ac.th",
+            "value": 77
+        },
+        {
+            "name": "www.jokergameth.com",
+            "value": 77
+        },
+        {
+            "name": "youtubei.youtube.com",
+            "value": 77
+        },
+        {
+            "name": "ads.medi-8.net",
+            "value": 78
+        },
+        {
+            "name": "api.facebook.com",
+            "value": 78
+        },
+        {
+            "name": "oknation.nationtv.tv",
+            "value": 78
+        },
+        {
+            "name": "proxy-28.sv6.dailymotion.com",
+            "value": 78
+        },
+        {
+            "name": "vast.vertamedia.com",
+            "value": 78
+        },
+        {
+            "name": "www.thaiben.ac.th",
+            "value": 78
+        },
+        {
+            "name": "www.wintherms.com",
+            "value": 78
+        },
+        {
+            "name": "103.77.116.7:8089",
+            "value": 79
+        },
+        {
+            "name": "i9.ytimg.com",
+            "value": 79
+        },
+        {
+            "name": "securepubads.g.doubleclick.net",
+            "value": 79
+        },
+        {
+            "name": "www.chilindo.com",
+            "value": 79
+        },
+        {
+            "name": "www.konvy.com",
+            "value": 79
+        },
+        {
+            "name": "www.thayangwit.ac.th",
+            "value": 79
+        },
+        {
+            "name": "www.soccersuck.com",
+            "value": 80
+        },
+        {
+            "name": "www.thairath.co.th",
+            "value": 80
+        },
+        {
+            "name": "91.228.166.16",
+            "value": 81
+        },
+        {
+            "name": "dnl-16.geo.kaspersky.com",
+            "value": 81
+        },
+        {
+            "name": "elb-tky-amz.nimbus.bitdefender.net",
+            "value": 81
+        },
+        {
+            "name": "hydra.easyanticheat.net",
+            "value": 81
+        },
+        {
+            "name": "itunes.apple.com",
+            "value": 81
+        },
+        {
+            "name": "master1.teamviewer.com",
+            "value": 81
+        },
+        {
+            "name": "outlook.office365.com",
+            "value": 81
+        },
+        {
+            "name": "us.patch.battle.net:1119",
+            "value": 81
+        },
+        {
+            "name": "api.share.mob.com",
+            "value": 82
+        },
+        {
+            "name": "cheetah-d.openx.net",
+            "value": 82
+        },
+        {
+            "name": "www.gump.in.th",
+            "value": 82
+        },
+        {
+            "name": "www.leonics-moc.com:30080",
+            "value": 82
+        },
+        {
+            "name": "dnl-18.geo.kaspersky.com",
+            "value": 83
+        },
+        {
+            "name": "vjav3.hclips.net",
+            "value": 83
+        },
+        {
+            "name": "91.228.166.13",
+            "value": 84
+        },
+        {
+            "name": "a1.mzstatic.com",
+            "value": 84
+        },
+        {
+            "name": "connect.facebook.net",
+            "value": 84
+        },
+        {
+            "name": "en-us.appex-rf.msn.com",
+            "value": 84
+        },
+        {
+            "name": "forums.soshifanclub.com",
+            "value": 84
+        },
+        {
+            "name": "image.dek-d.com",
+            "value": 84
+        },
+        {
+            "name": "pmir.3g.qq.com",
+            "value": 84
+        },
+        {
+            "name": "us.sinaimg.cn",
+            "value": 84
+        },
+        {
+            "name": "www.msftncsi.com",
+            "value": 84
+        },
+        {
+            "name": "www.vorrawut.com",
+            "value": 84
+        },
+        {
+            "name": "aax-fe-sin.amazon-adsystem.com",
+            "value": 85
+        },
+        {
+            "name": "delivery.optimatic.com",
+            "value": 85
+        },
+        {
+            "name": "dnl-06.geo.kaspersky.com",
+            "value": 85
+        },
+        {
+            "name": "m.pann.nate.com",
+            "value": 85
+        },
+        {
+            "name": "ocos-office365-s2s.msedge.net",
+            "value": 85
+        },
+        {
+            "name": "pki.google.com",
+            "value": 85
+        },
+        {
+            "name": "r1---sn-0opoxuui5pa5oq-c33e.googlevideo.com",
+            "value": 85
+        },
+        {
+            "name": "cas.criteo.com",
+            "value": 86
+        },
+        {
+            "name": "servicer.mgid.com",
+            "value": 86
+        },
+        {
+            "name": "srv.bebi.com",
+            "value": 86
+        },
+        {
+            "name": "tpc.googlesyndication.com",
+            "value": 86
+        },
+        {
+            "name": "www.te.kmutnb.ac.th",
+            "value": 86
+        },
+        {
+            "name": "cdn.onenote.net",
+            "value": 87
+        },
+        {
+            "name": "count-server.sharethis.com",
+            "value": 87
+        },
+        {
+            "name": "m.finishline.com",
+            "value": 87
+        },
+        {
+            "name": "www.tiparom.com",
+            "value": 87
+        },
+        {
+            "name": "203.154.179.44",
+            "value": 88
+        },
+        {
+            "name": "api.dokusho-ojikan.jp",
+            "value": 88
+        },
+        {
+            "name": "obs.line-cdn.net",
+            "value": 88
+        },
+        {
+            "name": "static.blued.com",
+            "value": 88
+        },
+        {
+            "name": "stickershop.line-cdn.net:80",
+            "value": 88
+        },
+        {
+            "name": "video.fbkk7-3.fna.fbcdn.net",
+            "value": 88
+        },
+        {
+            "name": "cdncache-a.akamaihd.net",
+            "value": 89
+        },
+        {
+            "name": "v.lkqd.net",
+            "value": 89
+        },
+        {
+            "name": "www.successcanada.org",
+            "value": 89
+        },
+        {
+            "name": "www.trang.go.th",
+            "value": 89
+        },
+        {
+            "name": "client-office365-tas.msedge.net",
+            "value": 90
+        },
+        {
+            "name": "images.gotinder.com",
+            "value": 91
+        },
+        {
+            "name": "pancake.apple.com",
+            "value": 91
+        },
+        {
+            "name": "www.talardthai.com",
+            "value": 91
+        },
+        {
+            "name": "www.thaiboyslove.com",
+            "value": 91
+        },
+        {
+            "name": "38.90.226.40",
+            "value": 92
+        },
+        {
+            "name": "accounts.google.com",
+            "value": 92
+        },
+        {
+            "name": "android.rqd.qq.com",
+            "value": 92
+        },
+        {
+            "name": "images.taboola.com",
+            "value": 92
+        },
+        {
+            "name": "oc.umeng.com",
+            "value": 92
+        },
+        {
+            "name": "www.myinwallpaper.com",
+            "value": 92
+        },
+        {
+            "name": "m.addthis.com",
+            "value": 93
+        },
+        {
+            "name": "manifest.googlevideo.com",
+            "value": 94
+        },
+        {
+            "name": "www.thaiddns.com",
+            "value": 94
+        },
+        {
+            "name": "l.sharethis.com",
+            "value": 95
+        },
+        {
+            "name": "mpc.cmcm.com",
+            "value": 95
+        },
+        {
+            "name": "p36-ckdatabase.icloud.com",
+            "value": 95
+        },
+        {
+            "name": "cdn.hdporn4.me",
+            "value": 96
+        },
+        {
+            "name": "conn1.oppomobile.com",
+            "value": 96
+        },
+        {
+            "name": "lh3.googleusercontent.com",
+            "value": 96
+        },
+        {
+            "name": "www.thanongsin.net",
+            "value": 96
+        },
+        {
+            "name": "dnl-04.geo.kaspersky.com",
+            "value": 97
+        },
+        {
+            "name": "4iy269pif3b3dd.ru",
+            "value": 98
+        },
+        {
+            "name": "adserver.adtech.de",
+            "value": 98
+        },
+        {
+            "name": "healthypeopleblog.ru",
+            "value": 98
+        },
+        {
+            "name": "nexusrules.officeapps.live.com",
+            "value": 98
+        },
+        {
+            "name": "www.hallostar.in.th",
+            "value": 98
+        },
+        {
+            "name": "live.fo3th.garenanow.com",
+            "value": 99
+        },
+        {
+            "name": "r4---sn-0opoxuui5pa5oq-c33e.googlevideo.com",
+            "value": 99
+        },
+        {
+            "name": "graph2.facebook.com",
+            "value": 100
+        },
+        {
+            "name": "jwpltx.com",
+            "value": 100
+        },
+        {
+            "name": "play.itunes.apple.com",
+            "value": 100
+        },
+        {
+            "name": "proxy-11.sg1.dailymotion.com",
+            "value": 100
+        },
+        {
+            "name": "ssp-bidapi-n1.i-mobile.co.jp",
+            "value": 100
+        },
+        {
+            "name": "vjav1.hclips.net",
+            "value": 101
+        },
+        {
+            "name": "www.siamsport.co.th",
+            "value": 101
+        },
+        {
+            "name": "www.thai2china.com",
+            "value": 101
+        },
+        {
+            "name": "clients3.google.com",
+            "value": 102
+        },
+        {
+            "name": "ocsp.digicert.com",
+            "value": 102
+        },
+        {
+            "name": "profile.line-cdn.net:80",
+            "value": 102
+        },
+        {
+            "name": "91.228.167.133",
+            "value": 103
+        },
+        {
+            "name": "st.acstnst.com",
+            "value": 103
+        },
+        {
+            "name": "platform.twitter.com",
+            "value": 104
+        },
+        {
+            "name": "res2.ddt.boomz.in.th",
+            "value": 104
+        },
+        {
+            "name": "samsung.com",
+            "value": 104
+        },
+        {
+            "name": "infoc2.duba.net",
+            "value": 105
+        },
+        {
+            "name": "otf.msn.com",
+            "value": 105
+        },
+        {
+            "name": "proxy-detection.eset.com",
+            "value": 106
+        },
+        {
+            "name": "v2.xxx888porn.com",
+            "value": 106
+        },
+        {
+            "name": "www.thaireefer.co.th",
+            "value": 106
+        },
+        {
+            "name": "api.miwifi.com",
+            "value": 107
+        },
+        {
+            "name": "staticxx.facebook.com",
+            "value": 107
+        },
+        {
+            "name": "stats.hkijngy.me",
+            "value": 107
+        },
+        {
+            "name": "bypass.ad-stir.com",
+            "value": 108
+        },
+        {
+            "name": "gamer.qq.com",
+            "value": 108
+        },
+        {
+            "name": "upic.me",
+            "value": 108
+        },
+        {
+            "name": "cmdts.ksmobile.com",
+            "value": 110
+        },
+        {
+            "name": "www.nicelogin.online",
+            "value": 110
+        },
+        {
+            "name": "external.fbkk10-1.fna.fbcdn.net",
+            "value": 111
+        },
+        {
+            "name": "external.fbkk14-1.fna.fbcdn.net",
+            "value": 111
+        },
+        {
+            "name": "page.ookbeecomics.com",
+            "value": 111
+        },
+        {
+            "name": "ts.eset.com:80",
+            "value": 111
+        },
+        {
+            "name": "telegraph-ash.instagram.com",
+            "value": 113
+        },
+        {
+            "name": "um09.eset.com",
+            "value": 113
+        },
+        {
+            "name": "www.gstatic.com",
+            "value": 113
+        },
+        {
+            "name": "is1.mzstatic.com",
+            "value": 114
+        },
+        {
+            "name": "steamcommunity.com",
+            "value": 114
+        },
+        {
+            "name": "adserver.juicyads.com",
+            "value": 115
+        },
+        {
+            "name": "img-s-msn-com.akamaized.net",
+            "value": 115
+        },
+        {
+            "name": "stats1.tune.pk",
+            "value": 115
+        },
+        {
+            "name": "video.google.com",
+            "value": 115
+        },
+        {
+            "name": "is4.mzstatic.com",
+            "value": 116
+        },
+        {
+            "name": "web.cdn.garenanow.com",
+            "value": 116
+        },
+        {
+            "name": "b-graph.facebook.com",
+            "value": 117
+        },
+        {
+            "name": "clients4.google.com",
+            "value": 117
+        },
+        {
+            "name": "um05.eset.com",
+            "value": 117
+        },
+        {
+            "name": "um21.eset.com",
+            "value": 118
+        },
+        {
+            "name": "um02.eset.com",
+            "value": 119
+        },
+        {
+            "name": "up.cm.ksmobile.com",
+            "value": 119
+        },
+        {
+            "name": "www.thaweewat.com",
+            "value": 120
+        },
+        {
+            "name": "master11.teamviewer.com",
+            "value": 121
+        },
+        {
+            "name": "ocsp.trust-provider.com",
+            "value": 121
+        },
+        {
+            "name": "tile-service.weather.microsoft.com",
+            "value": 121
+        },
+        {
+            "name": "um07.eset.com",
+            "value": 121
+        },
+        {
+            "name": "www.tasautotech.com",
+            "value": 121
+        },
+        {
+            "name": "www.suankarnchang.com",
+            "value": 123
+        },
+        {
+            "name": "www.weberthai.com",
+            "value": 123
+        },
+        {
+            "name": "api.accuweather.com",
+            "value": 124
+        },
+        {
+            "name": "videostream.dn.ua",
+            "value": 124
+        },
+        {
+            "name": "www.cdn-chilindo.com",
+            "value": 124
+        },
+        {
+            "name": "www.coliseumplus.com",
+            "value": 124
+        },
+        {
+            "name": "5-8-0-app.agent.datadoghq.com",
+            "value": 125
+        },
+        {
+            "name": "198.255.6.138:9168",
+            "value": 127
+        },
+        {
+            "name": "www.baidu.com",
+            "value": 128
+        },
+        {
+            "name": "www.msftconnecttest.com",
+            "value": 128
+        },
+        {
+            "name": "cdn.edgecast.steamstatic.com",
+            "value": 130
+        },
+        {
+            "name": "quest2.ddt.boomz.in.th",
+            "value": 130
+        },
+        {
+            "name": "198.255.14.154:6568",
+            "value": 131
+        },
+        {
+            "name": "um11.eset.com",
+            "value": 131
+        },
+        {
+            "name": "sh.adingo.jp",
+            "value": 132
+        },
+        {
+            "name": "pbs.twimg.com",
+            "value": 133
+        },
+        {
+            "name": "crl.trust-provider.com",
+            "value": 134
+        },
+        {
+            "name": "d.socdm.com",
+            "value": 134
+        },
+        {
+            "name": "static.xx.fbcdn.net",
+            "value": 134
+        },
+        {
+            "name": "www.theyang.go.th",
+            "value": 134
+        },
+        {
+            "name": "www.tl.ac.th",
+            "value": 134
+        },
+        {
+            "name": "heartbeat.dm.origin.com",
+            "value": 135
+        },
+        {
+            "name": "loadm.exelator.com",
+            "value": 136
+        },
+        {
+            "name": "upoll.umengcloud.com",
+            "value": 136
+        },
+        {
+            "name": "lvs.truehits.in.th",
+            "value": 137
+        },
+        {
+            "name": "summonerswar-sea.qpyou.cn",
+            "value": 137
+        },
+        {
+            "name": "b-api.facebook.com",
+            "value": 138
+        },
+        {
+            "name": "download.microsoft.com",
+            "value": 138
+        },
+        {
+            "name": "scontent.xx.fbcdn.net",
+            "value": 138
+        },
+        {
+            "name": "38.90.226.39",
+            "value": 139
+        },
+        {
+            "name": "dnl-15.geo.kaspersky.com",
+            "value": 139
+        },
+        {
+            "name": "adash.m.taobao.com",
+            "value": 140
+        },
+        {
+            "name": "ds.download.windowsupdate.com",
+            "value": 140
+        },
+        {
+            "name": "go.microsoft.com",
+            "value": 140
+        },
+        {
+            "name": "aladdin.genieesspv.jp",
+            "value": 141
+        },
+        {
+            "name": "pixel.quantserve.com",
+            "value": 141
+        },
+        {
+            "name": "f.th.bav.baidu.com",
+            "value": 142
+        },
+        {
+            "name": "is5.mzstatic.com",
+            "value": 143
+        },
+        {
+            "name": "gsp64-ssl.ls.apple.com",
+            "value": 144
+        },
+        {
+            "name": "h.mfcdn.net",
+            "value": 144
+        },
+        {
+            "name": "ocsp.intel.com",
+            "value": 144
+        },
+        {
+            "name": "s.edgexads.com",
+            "value": 144
+        },
+        {
+            "name": "www.teawmuangthai.com",
+            "value": 145
+        },
+        {
+            "name": "youtubei.googleapis.com",
+            "value": 145
+        },
+        {
+            "name": "38.90.226.37",
+            "value": 146
+        },
+        {
+            "name": "aa.agkn.com",
+            "value": 146
+        },
+        {
+            "name": "clients1.google.com",
+            "value": 146
+        },
+        {
+            "name": "app.dek-d.com",
+            "value": 147
+        },
+        {
+            "name": "vdn-obs-th.line-scdn.net",
+            "value": 147
+        },
+        {
+            "name": "r4---sn-0opoxuui5pa5oq-c33l.googlevideo.com",
+            "value": 148
+        },
+        {
+            "name": "t.dtscdn.com",
+            "value": 148
+        },
+        {
+            "name": "img.free-scores.com",
+            "value": 150
+        },
+        {
+            "name": "fe2.update.microsoft.com",
+            "value": 151
+        },
+        {
+            "name": "mizuno.resultspage.com",
+            "value": 152
+        },
+        {
+            "name": "r3---sn-0opoxuui5pa5oq-c33e.googlevideo.com",
+            "value": 153
+        },
+        {
+            "name": "weather.smarttechnology365.org",
+            "value": 153
+        },
+        {
+            "name": "www.wannapholtrading.com",
+            "value": 153
+        },
+        {
+            "name": "www.thaipocket.com",
+            "value": 154
+        },
+        {
+            "name": "android.clients.google.com",
+            "value": 157
+        },
+        {
+            "name": "bcp.crwdcntrl.net",
+            "value": 158
+        },
+        {
+            "name": "config.edge.skype.com",
+            "value": 158
+        },
+        {
+            "name": "www.trat.doae.go.th",
+            "value": 158
+        },
+        {
+            "name": "settings.crashlytics.com",
+            "value": 161
+        },
+        {
+            "name": "statics.javhihi.com",
+            "value": 161
+        },
+        {
+            "name": "e.crashlytics.com",
+            "value": 163
+        },
+        {
+            "name": "a3.mzstatic.com",
+            "value": 164
+        },
+        {
+            "name": "safebrowsing.googleapis.com",
+            "value": 167
+        },
+        {
+            "name": "static.flyflv.com",
+            "value": 169
+        },
+        {
+            "name": "thaireefer.co.th",
+            "value": 169
+        },
+        {
+            "name": "www.googleadservices.com",
+            "value": 170
+        },
+        {
+            "name": "download.windowsupdate.com",
+            "value": 171
+        },
+        {
+            "name": "videocdn.iflix.com",
+            "value": 172
+        },
+        {
+            "name": "www.xn--42cgm7ec1abs3e1a2ab2d1g9eg.com",
+            "value": 173
+        },
+        {
+            "name": "is2.mzstatic.com",
+            "value": 175
+        },
+        {
+            "name": "netcheckcdn.xyz",
+            "value": 175
+        },
+        {
+            "name": "www.tupr.ac.th",
+            "value": 175
+        },
+        {
+            "name": "dnl-11.geo.kaspersky.com",
+            "value": 176
+        },
+        {
+            "name": "fonts.gstatic.com",
+            "value": 176
+        },
+        {
+            "name": "a4.mzstatic.com",
+            "value": 177
+        },
+        {
+            "name": "au.v4.download.windowsupdate.com",
+            "value": 178
+        },
+        {
+            "name": "r1---sn-0opoxuui5pa5oq-c33s.googlevideo.com",
+            "value": 179
+        },
+        {
+            "name": "xp.apple.com",
+            "value": 179
+        },
+        {
+            "name": "203.145.115.35",
+            "value": 180
+        },
+        {
+            "name": "www.thescreensnapshot.com",
+            "value": 180
+        },
+        {
+            "name": "a2.mzstatic.com",
+            "value": 182
+        },
+        {
+            "name": "cli-cloud.3dprinteros.com",
+            "value": 182
+        },
+        {
+            "name": "4.bp.blogspot.com",
+            "value": 184
+        },
+        {
+            "name": "baglisse.no-ip.info:81",
+            "value": 184
+        },
+        {
+            "name": "m.mangafox.me",
+            "value": 184
+        },
+        {
+            "name": "pics.dmm.co.jp",
+            "value": 184
+        },
+        {
+            "name": "r4---sn-0opoxuui5pa5oq-c33z.googlevideo.com",
+            "value": 184
+        },
+        {
+            "name": "27.254.154.154:1935",
+            "value": 185
+        },
+        {
+            "name": "show.bumq.com",
+            "value": 185
+        },
+        {
+            "name": "r2---sn-0opoxuui5pa5oq-c33z.googlevideo.com",
+            "value": 186
+        },
+        {
+            "name": "stat.komoona.com",
+            "value": 186
+        },
+        {
+            "name": "www.coolism.net",
+            "value": 191
+        },
+        {
+            "name": "graph.instagram.com",
+            "value": 193
+        },
+        {
+            "name": "gsp-ssl.ls.apple.com",
+            "value": 193
+        },
+        {
+            "name": "imupdate.garenanow.com",
+            "value": 193
+        },
+        {
+            "name": "yt3.ggpht.com",
+            "value": 193
+        },
+        {
+            "name": "valve1001.steamcontent.com",
+            "value": 194
+        },
+        {
+            "name": "sg.apis.naver.com",
+            "value": 195
+        },
+        {
+            "name": "www.ubonzoo.com",
+            "value": 195
+        },
+        {
+            "name": "medi8.genieesspv.jp",
+            "value": 196
+        },
+        {
+            "name": "mesu.apple.com",
+            "value": 197
+        },
+        {
+            "name": "su.ff.avast.com",
+            "value": 198
+        },
+        {
+            "name": "d.lnwfile.com",
+            "value": 199
+        },
+        {
+            "name": "www.thaistreetrunners.com",
+            "value": 200
+        },
+        {
+            "name": "gcs-asia-00002.content-storage-upload.googleapis.com",
+            "value": 202
+        },
+        {
+            "name": "1.bp.blogspot.com",
+            "value": 203
+        },
+        {
+            "name": "imap.gmail.com",
+            "value": 203
+        },
+        {
+            "name": "tags.bluekai.com",
+            "value": 203
+        },
+        {
+            "name": "proxy-083.dc3.dailymotion.com",
+            "value": 204
+        },
+        {
+            "name": "www.three-season.com",
+            "value": 206
+        },
+        {
+            "name": "valve1008.steamcontent.com",
+            "value": 207
+        },
+        {
+            "name": "r3---sn-0opoxuui5pa5oq-c33z.googlevideo.com",
+            "value": 209
+        },
+        {
+            "name": "www.sugarzone.in.th",
+            "value": 209
+        },
+        {
+            "name": "a.komoona.com",
+            "value": 211
+        },
+        {
+            "name": "a.algovid.com",
+            "value": 212
+        },
+        {
+            "name": "e.dtscout.com",
+            "value": 213
+        },
+        {
+            "name": "gak.webtoons.com",
+            "value": 213
+        },
+        {
+            "name": "weather.nicelogin.info",
+            "value": 213
+        },
+        {
+            "name": "nqs-nl1-c2.youboranqs01.com",
+            "value": 214
+        },
+        {
+            "name": "weather.intechnical.online",
+            "value": 214
+        },
+        {
+            "name": "init.itunes.apple.com",
+            "value": 216
+        },
+        {
+            "name": "www.intel.com",
+            "value": 218
+        },
+        {
+            "name": "cf.shopee.co.th",
+            "value": 220
+        },
+        {
+            "name": "cdn-th.tunwalai.net",
+            "value": 223
+        },
+        {
+            "name": "secure.livechatinc.com",
+            "value": 223
+        },
+        {
+            "name": "configuration.apple.com",
+            "value": 224
+        },
+        {
+            "name": "s.youtube.com",
+            "value": 224
+        },
+        {
+            "name": "au.b1.download.windowsupdate.com",
+            "value": 225
+        },
+        {
+            "name": "r2---sn-0opoxuui5pa5oq-c33s.googlevideo.com",
+            "value": 225
+        },
+        {
+            "name": "ib.adnxs.com",
+            "value": 226
+        },
+        {
+            "name": "s4.histats.com",
+            "value": 228
+        },
+        {
+            "name": "doujin-th.com",
+            "value": 231
+        },
+        {
+            "name": "obs-th.line-apps.com",
+            "value": 231
+        },
+        {
+            "name": "gspe1-ssl.ls.apple.com",
+            "value": 233
+        },
+        {
+            "name": "avatar.garenanow.com",
+            "value": 234
+        },
+        {
+            "name": "111.223.52.66",
+            "value": 235
+        },
+        {
+            "name": "r4---sn-0opoxuui5pa5oq-c33s.googlevideo.com",
+            "value": 236
+        },
+        {
+            "name": "pebed.dm.gg",
+            "value": 241
+        },
+        {
+            "name": "www.thaihealth.or.th",
+            "value": 242
+        },
+        {
+            "name": "3.bp.blogspot.com",
+            "value": 248
+        },
+        {
+            "name": "r1---sn-0opoxuui5pa5oq-c33z.googlevideo.com",
+            "value": 249
+        },
+        {
+            "name": "portal.fb.com",
+            "value": 251
+        },
+        {
+            "name": "www.microsoft.com",
+            "value": 253
+        },
+        {
+            "name": "t.sharethis.com",
+            "value": 254
+        },
+        {
+            "name": "a5.mzstatic.com",
+            "value": 256
+        },
+        {
+            "name": "www.toyotaracingschool.com",
+            "value": 258
+        },
+        {
+            "name": "webtoon.phinf.naver.net",
+            "value": 259
+        },
+        {
+            "name": "r3---sn-0opoxuui5pa5oq-c33l.googlevideo.com",
+            "value": 263
+        },
+        {
+            "name": "cdn.content.prod.cms.msn.com",
+            "value": 265
+        },
+        {
+            "name": "valve1010.steamcontent.com",
+            "value": 269
+        },
+        {
+            "name": "bf.zzc.cn",
+            "value": 270
+        },
+        {
+            "name": "settings-win.data.microsoft.com",
+            "value": 272
+        },
+        {
+            "name": "pagead2.googlesyndication.com",
+            "value": 274
+        },
+        {
+            "name": "scontent.fbkk10-1.fna.fbcdn.net",
+            "value": 275
+        },
+        {
+            "name": "www.google-analytics.com",
+            "value": 275
+        },
+        {
+            "name": "peanuts-api.pixowl.com",
+            "value": 276
+        },
+        {
+            "name": "stickershop.line-cdn.net",
+            "value": 276
+        },
+        {
+            "name": "video.fbkk14-1.fna.fbcdn.net",
+            "value": 276
+        },
+        {
+            "name": "tracker.bumq.com",
+            "value": 278
+        },
+        {
+            "name": "mqtt-mini.facebook.com",
+            "value": 279
+        },
+        {
+            "name": "www.google.co.th",
+            "value": 279
+        },
+        {
+            "name": "static1-velaeasy.readyplanet.com",
+            "value": 280
+        },
+        {
+            "name": "syndication.exoclick.com",
+            "value": 280
+        },
+        {
+            "name": "gs-loc.apple.com",
+            "value": 282
+        },
+        {
+            "name": "dmd.metaservices.microsoft.com",
+            "value": 283
+        },
+        {
+            "name": "global.apis.naver.com",
+            "value": 286
+        },
+        {
+            "name": "www.si.mahidol.ac.th",
+            "value": 289
+        },
+        {
+            "name": "init-p01st.push.apple.com",
+            "value": 294
+        },
+        {
+            "name": "certificates.intel.com",
+            "value": 296
+        },
+        {
+            "name": "video.fbkk10-1.fna.fbcdn.net",
+            "value": 298
+        },
+        {
+            "name": "pingsl.avast.com",
+            "value": 302
+        },
+        {
+            "name": "imgcache.wechat.com",
+            "value": 303
+        },
+        {
+            "name": "video.fbkk8-1.fna.fbcdn.net",
+            "value": 304
+        },
+        {
+            "name": "gspe19.ls.apple.com",
+            "value": 305
+        },
+        {
+            "name": "zhxin.xfplay.com:9080",
+            "value": 307
+        },
+        {
+            "name": "goupdate.3g.cn",
+            "value": 310
+        },
+        {
+            "name": "ps.eyeota.net",
+            "value": 310
+        },
+        {
+            "name": "valve1009.steamcontent.com",
+            "value": 310
+        },
+        {
+            "name": "cdn.akamai.steamstatic.com",
+            "value": 314
+        },
+        {
+            "name": "t.lkqd.net",
+            "value": 314
+        },
+        {
+            "name": "api.samsungcloud.com",
+            "value": 318
+        },
+        {
+            "name": "metrics.brightcove.com",
+            "value": 318
+        },
+        {
+            "name": "2.bp.blogspot.com",
+            "value": 319
+        },
+        {
+            "name": "proxy-081.dc3.dailymotion.com",
+            "value": 320
+        },
+        {
+            "name": "i.ytimg.com",
+            "value": 323
+        },
+        {
+            "name": "r3---sn-0opoxuui5pa5oq-c33s.googlevideo.com",
+            "value": 323
+        },
+        {
+            "name": "soma.smaato.net",
+            "value": 324
+        },
+        {
+            "name": "281596-lh.akamaihd.net",
+            "value": 328
+        },
+        {
+            "name": "ads.stickyadstv.com",
+            "value": 335
+        },
+        {
+            "name": "connectivitycheck.gstatic.com",
+            "value": 338
+        },
+        {
+            "name": "cdn.th.sf.garenanow.com",
+            "value": 346
+        },
+        {
+            "name": "play.googleapis.com",
+            "value": 346
+        },
+        {
+            "name": "www.googleapis.com",
+            "value": 349
+        },
+        {
+            "name": "scontent.fbkk14-1.fna.fbcdn.net",
+            "value": 353
+        },
+        {
+            "name": "b.scorecardresearch.com",
+            "value": 356
+        },
+        {
+            "name": "v10.vortex-win.data.microsoft.com",
+            "value": 359
+        },
+        {
+            "name": "www.google.com",
+            "value": 367
+        },
+        {
+            "name": "lakorn.guchill.com",
+            "value": 371
+        },
+        {
+            "name": "adultok.xclubporn.com",
+            "value": 376
+        },
+        {
+            "name": "googleads.g.doubleclick.net",
+            "value": 383
+        },
+        {
+            "name": "www.facebook.com",
+            "value": 387
+        },
+        {
+            "name": "www.youtube.com",
+            "value": 388
+        },
+        {
+            "name": "ssp.lkqd.net",
+            "value": 398
+        },
+        {
+            "name": "connectivitycheck.android.com",
+            "value": 402
+        },
+        {
+            "name": "cs.gssprt.jp",
+            "value": 407
+        },
+        {
+            "name": "update.eset.com",
+            "value": 409
+        },
+        {
+            "name": "video.twimg.com",
+            "value": 410
+        },
+        {
+            "name": "i.instagram.com",
+            "value": 427
+        },
+        {
+            "name": "detectportal.firefox.com",
+            "value": 432
+        },
+        {
+            "name": "valve1003.steamcontent.com",
+            "value": 433
+        },
+        {
+            "name": "login.live.com",
+            "value": 445
+        },
+        {
+            "name": "zhxin2.xfplay.com:9080",
+            "value": 453
+        },
+        {
+            "name": "gsp1.apple.com",
+            "value": 455
+        },
+        {
+            "name": "mds.nipa.co.th",
+            "value": 457
+        },
+        {
+            "name": "gllto.glpals.com",
+            "value": 460
+        },
+        {
+            "name": "redir.adap.tv",
+            "value": 460
+        },
+        {
+            "name": "sg-nvapis.line.me",
+            "value": 460
+        },
+        {
+            "name": "valve1007.steamcontent.com",
+            "value": 471
+        },
+        {
+            "name": "valve1006.steamcontent.com",
+            "value": 476
+        },
+        {
+            "name": "valve1011.steamcontent.com",
+            "value": 478
+        },
+        {
+            "name": "awebtoon.phinf.naver.net",
+            "value": 508
+        },
+        {
+            "name": "swupmf.adobe.com",
+            "value": 516
+        },
+        {
+            "name": "edge-mqtt.facebook.com",
+            "value": 518
+        },
+        {
+            "name": "smce.doae.go.th",
+            "value": 519
+        },
+        {
+            "name": "www.wpkms.com",
+            "value": 569
+        },
+        {
+            "name": "www.superheroesmania.com",
+            "value": 607
+        },
+        {
+            "name": "www.mizunoshop.net",
+            "value": 618
+        },
+        {
+            "name": "valve1002.steamcontent.com",
+            "value": 626
+        },
+        {
+            "name": "cdn.samsungcloudsolution.com",
+            "value": 665
+        },
+        {
+            "name": "ssw.live.com",
+            "value": 681
+        },
+        {
+            "name": "adm.shinobi.jp",
+            "value": 682
+        },
+        {
+            "name": "bcboltbbtv-a.akamaihd.net",
+            "value": 697
+        },
+        {
+            "name": "203.151.183.193:80",
+            "value": 703
+        },
+        {
+            "name": "ctestream02.stou.ac.th",
+            "value": 706
+        },
+        {
+            "name": "armmf.adobe.com",
+            "value": 727
+        },
+        {
+            "name": "muangsiri.com",
+            "value": 734
+        },
+        {
+            "name": "202.28.103.74",
+            "value": 739
+        },
+        {
+            "name": "pingma.qq.com:80",
+            "value": 751
+        },
+        {
+            "name": "203.151.183.193",
+            "value": 761
+        },
+        {
+            "name": "www.muangsiri.com",
+            "value": 771
+        },
+        {
+            "name": "service.pantip.com",
+            "value": 799
+        },
+        {
+            "name": "au.download.windowsupdate.com",
+            "value": 827
+        },
+        {
+            "name": "wsxc123.cc",
+            "value": 845
+        },
+        {
+            "name": "ads.mopub.com",
+            "value": 897
+        },
+        {
+            "name": "goappdl.goforandroid.com",
+            "value": 928
+        },
+        {
+            "name": "ctldl.windowsupdate.com",
+            "value": 950
+        },
+        {
+            "name": "i.pinimg.com",
+            "value": 1048
+        },
+        {
+            "name": "thai-bloggs.com",
+            "value": 1077
+        },
+        {
+            "name": "push.bitdefender.net",
+            "value": 1156
+        },
+        {
+            "name": "valve1004.steamcontent.com",
+            "value": 1157
+        },
+        {
+            "name": "cdn.th.garenanow.com",
+            "value": 1175
+        },
+        {
+            "name": "real3.atimemedia.com",
+            "value": 1235
+        },
+        {
+            "name": "imgcdn.ptvcdn.net",
+            "value": 1250
+        },
+        {
+            "name": "crl.microsoft.com",
+            "value": 1306
+        },
+        {
+            "name": "ping3.teamviewer.com",
+            "value": 1386
+        },
+        {
+            "name": "courier.push.apple.com",
+            "value": 1389
+        },
+        {
+            "name": "tools.google.com",
+            "value": 1395
+        },
+        {
+            "name": "graph.facebook.com",
+            "value": 1444
+        },
+        {
+            "name": "valve1000.steamcontent.com",
+            "value": 1473
+        },
+        {
+            "name": "eas.outlook.com",
+            "value": 1617
+        },
+        {
+            "name": "weather.yahooapis.com",
+            "value": 1760
+        },
+        {
+            "name": "asia.vod.linetv.edgesuite.net",
+            "value": 1877
+        },
+        {
+            "name": "cdn.garenanow.com",
+            "value": 2001
+        },
+        {
+            "name": "captive.apple.com",
+            "value": 2091
+        },
+        {
+            "name": "ads.adaptv.advertising.com",
+            "value": 2356
+        },
+        {
+            "name": "licensing.mp.microsoft.com",
+            "value": 2670
+        },
+        {
+            "name": "www.toptools100.com",
+            "value": 2769
+        },
+        {
+            "name": "instagram.fbkk14-1.fna.fbcdn.net",
+            "value": 3743
+        },
+        {
+            "name": "instagram.fbkk10-1.fna.fbcdn.net",
+            "value": 8319
+        }
+    ]
+}

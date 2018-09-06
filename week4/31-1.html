@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html style="height: 100%">
+
+<head>
+    <meta charset="utf-8">
+</head>
+
+<body style="height: 100%; margin: 0">
+    <div id="container" style="height: 100%"></div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/echarts.min.js"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts-gl/echarts-gl.min.js"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts-stat/ecStat.min.js"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/extension/dataTool.min.js"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/map/js/china.js"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/map/js/world.js"></script>
+    <script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=ZUONbpqGBsYGXNIYHicvbAbM"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/extension/bmap.min.js"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/simplex.js"></script>
+    <script type="text/javascript">
+        var dom = document.getElementById("container");
+        var myChart = echarts.init(dom);
+        var app = {};
+        option = null;
+        myChart.showLoading();
+        myChart.hideLoading();
+        myChart.setOption(option = {
+            title: {
+            text: 'Irregular',
+            x: 'center'
+            },
+            xAxis: {
+                type: 'category',
+                data: ['03.00', '03.01','03.02','03.03','03.04','03.05','03.06','03.07','03.08','03.09','03.10','03.11','03.12','03.13','03.14','03.15','03.16','03.17','03.18','03.19','03.20','03.21','03.22','03.23','03.24','03.25','03.26','03.27','03.28','03.29','03.30','03.31','03.32','03.33','03.34','03.35','03.36','03.37','03.38','03.39','03.40','03.41','03.42','03.43','03.44','03.45','03.46','03.47','03.48','03.49','03.50','03.51','03.52','03.53','03.54','03.55','03.56','03.57','03.58','03.59',]
+            },
+            yAxis: {
+                type: 'value'
+            },
+            series: [{
+                data: [5790, 5193,6195,5829,5839,6253,5736,8454,5447,5235,5630,6138,5411,5510,5101,5587,5701,5527,5241,5000,5205,4925,4179,4649,4481,4882,4856,4798,4688,4739,4755,4768,4452,4509,4335,4049,3412,3262,3340,3612,3041,3071,3001,3136,3156,3166,2962,3193,3107,3032,2614,2772,2687,2664,2663,2707,2667,2977,2941,2564],
+                type: 'line'
+            }]
+        }, true);
+    if (option && typeof option === "object") {
+        myChart.setOption(option, true);
+    };
+    if (option && typeof option === "object") {
+        myChart.setOption(option, true);
+    }
+    </script>
+
+
+</body>
+
+</html>
